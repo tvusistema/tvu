@@ -1,4 +1,9 @@
-#EXTM3U
+#EXTM3U refresh="1400"
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:698
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:13
+
 ##CANAIS ABERTOS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
@@ -16,7 +21,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28863
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES³
-http://tv.factoryiptv.com:80/Denis111/Denis111/36948
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31525?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 2
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31528
 ##INFANTIL
@@ -34,3 +39,12 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37648?checkedby:iptvcat.com
 ##HBO
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="HBO",HBO
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.com
+##NOTÍCIAS
+#EXTINF:0 tvg-country="BR" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Noticias",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://m.cbn.globoradio.globo.com/es0 tvg-country="BR" taticos/img/CBN_1024x1024.png" group-title="Notícias",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Notícias",CNN BRASIL
+https://5f1ce9c7dc62b.streamlock.net/cnnbrasil/cnnbrasil/playlist.m3u8
