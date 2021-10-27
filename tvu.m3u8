@@ -2,8 +2,14 @@
 ##CANAIS ABERTOS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ² 
-http://linea.cc:8000/test123/test123/24975.ts
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Canais abertos", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Canais abertos", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/558_TV_Machete.jpg" group-title="Canais abertos", TV Machete | BR
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?PlaylistM3UCL
 ##PREMIERE
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
@@ -11,7 +17,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28863
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES³
 http://tv.factoryiptv.com:80/Denis111/Denis111/36948
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES 2
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 2
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31528
 ##INFANTIL
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",CARTOON NETWORK
