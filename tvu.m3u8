@@ -1,6 +1,8 @@
 #EXTM3U
 ##CANAIS ABERTOS
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ² 
 http://linea.cc:8000/test123/test123/24975.ts
 ##PREMIERE
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
@@ -12,17 +14,17 @@ http://tv.factoryiptv.com:80/Denis111/Denis111/36948
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES 2
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31528
 ##INFANTIL
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantil",CARTOON NETWORK
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",CARTOON NETWORK
 http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantil",CARTOON NETWORK²
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",CARTOON NETWORK²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
 ##FILMES E SERIES
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Filmes e séries",FX
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX
 http://new-pro.tv:8080/74919yhat/47818ywtxwr/32901?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Filmes e séries",FX²
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX²
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/244?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Filmes e séries",FX³
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX³
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37648?checkedby:iptvcat.com
 ##HBO
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="HBO",HBO
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.com
