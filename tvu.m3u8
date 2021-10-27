@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="" group-title="Canais abertos",GLOBO RJ 
+http://cdn.whostreams.net:8081/wsedge/7zdrwfa/chunks.m3u8?nimblesessionid=12424358&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDQ6MTE6MjUgQU0maGFzaF92YWx1ZT04VVlpT1JneVk2QW4rYjRFMllwalhnPT0mdmFsaWRtaW51dGVzPTIw 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Premiere",PREMIERE CLUBES
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Premiere",PREMIERE CLUBES²
