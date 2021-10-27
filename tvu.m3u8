@@ -8,7 +8,7 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Canais abertos", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/558_TV_Machete.jpg" group-title="Canais abertos", TV Machete | BR
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/558_TV_Machete.jpg" group-title="Canais abertos", TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?PlaylistM3UCL
 ##PREMIERE
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
