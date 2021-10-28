@@ -144,6 +144,9 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.c
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 ##NOTÍCIAS
+#EXTINF:0 tvg-logo="https://imgur.com/KmJ7Qsh.jpg" tvg-shift="0" group-title="Notícias",Band News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+
 #EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
@@ -198,6 +201,9 @@ https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w130146608.m3u8
 
 
 ##RADIOS
+#EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
+http://centova6.ciclanohost.com.br:9256//;stream.mp3
+
 #EXTINF:0 group-title="Rádios" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Transamerica FM Estúdio
 http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist_w968253868.m3u8
 
