@@ -8,6 +8,12 @@
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
+http://new-pro.tv:8080/74919yhat/47818ywtxwr/122246?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RN
+https://list.iptvcat.com/my_list/s/22b485ee61d46dc26cec827105b7d25b.m3u8
+
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais abertos", SBT
 https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
 
@@ -24,10 +30,10 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais abertos",Band
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31055?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Canais abertos",Band²
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+http://tv.factoryiptv.com:80/Denis111/Denis111/36990?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="Canais abertos", Futura
 https://tv.unisc.br/hls/test.m3u8
