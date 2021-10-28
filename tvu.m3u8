@@ -261,7 +261,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HG8eFs1.jpg" group-title="Variedades",TV Cidade de Petrópolis
-http://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+https://video01.kshost.com.br/inside2133/inside2133/playlist.m3u8?t=1635454888
 
 #CÂMERAS
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
