@@ -76,6 +76,7 @@ http://new-pro.tv:8080/74919yhat/47818ywtxwr/32866?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
 
@@ -136,10 +137,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007c
 #EXTINF:0 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Infantil",O Reino Infantil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Infantil" tvg-name="Retrô Cartoon",Retrô Cartoon 
+#EXTINF:0 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Infantil",Retrô Cartoon 
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:0 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Infantil" tvg-name="Tokusato",Tokusato 
+#EXTINF:0 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Infantil",Tokusato 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:0 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Infantil",Turma da Mônica 
@@ -241,7 +242,7 @@ https://youtu.be/JJqXeRFsLjE
 #EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
 
-#EXTINF:0 tvg-logo="https://imgur.com/p22Yewv.png" group-title="Rádios",Catedral do Rock
+#EXTINF:0 group-title="Rádios" tvg-logo="https://imgur.com/p22Yewv.png",Catedral do Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 #EXTINF:0 group-title="Rádios" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Transamerica FM Estúdio
@@ -256,10 +257,10 @@ https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
 http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
 
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádios",CBN SP
+#EXTINF:0 group-title="Rádios" tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádios",CBN RJ
+#EXTINF:0 group-title="Rádios" tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 
