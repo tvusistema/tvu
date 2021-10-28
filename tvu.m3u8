@@ -172,13 +172,18 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSi
 
 #CÂMERAS
-#EXTINF:0 $ExtFilter="CINEPLAY | Filmes" group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 
 
-#EXTINF:0 $ExtFilter="CINEPLAY | Filmes" group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",NEW ORLEANS 1 USA
-https://youtu.be/4DXle0_Ud7s
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Copacabana
+https://youtu.be/kyZBy84Ct_E
 
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Aeroporto Santos Dumont (SBRJ/SDU)
+https://youtu.be/vI1e7U5dGH0
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Kansas City Zoo
+https://youtu.be/JJqXeRFsLjE
 
 ##RADIOS
 #EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
