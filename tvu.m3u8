@@ -26,6 +26,9 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/558_TV_Machete.jpg" group-title="Canais abertos", TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/200px-TV_Gazeta.svg.png" group-title="Canais abertos", TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+
 ##ESPORTES  
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
