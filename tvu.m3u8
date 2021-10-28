@@ -11,6 +11,9 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?PlaylistM3UCL
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record²
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="Canais abertos", Futura
 https://tv.unisc.br/hls/test.m3u8
 
@@ -122,11 +125,22 @@ http://new-pro.tv:8080/74919yhat/47818ywtxwr/32901?checkedby:iptvcat.com
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/244?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX³
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37648?checkedby:iptvcat.com
+
 ##HBO
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="HBO",HBO
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.com
 
+##TELECINE
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/200px-Telecine_Action_2.png" group-title="Telecine",Telecine Action
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
 ##NOTÍCIAS
+#EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News²
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:0 tvg-id="Cbn.br" tvg-name="CBN RJ" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
@@ -144,7 +158,4 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/featuredImage.jpg" group-title="Notícias",Jovem Pan
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSi
-
-#EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
