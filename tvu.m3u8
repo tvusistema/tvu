@@ -1,675 +1,313 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="Futura" tvg-name="Futura" tvg-logo="http://playhdtv.tk/logs/futura.jpg" group-title="[C] Abertos",Futura
-http://painel.tvdigitalsbl.net:80/vo/vo/12957
-#EXTINF:-1 tvg-ID="TVCamara" tvg-name="TV Camara" tvg-logo="https://i.ibb.co/rZ0B0VJ/tvcamera.png" group-title="[C] Abertos",TV Camara
-http://painel.tvdigitalsbl.net:80/vo/vo/12958
-#EXTINF:-1 tvg-ID="TVCultura" tvg-name="TV Cultura" tvg-logo="http://playhdtv.tk/logs/tvcultura.jpg" group-title="[C] Abertos",TV Cultura
-http://painel.tvdigitalsbl.net:80/vo/vo/12959
-#EXTINF:-1 tvg-ID="TVJustica" tvg-name="TV Justica" tvg-logo="http://playhdtv.tk/logs/tv-justi%c3%a7a.jpg" group-title="[C] Abertos",TV Justica
-http://painel.tvdigitalsbl.net:80/vo/vo/12960
-#EXTINF:-1 tvg-ID="TVSenado" tvg-name="TV Senado" tvg-logo="http://playhdtv.tk/logs/tv-senado-hd.jpg" group-title="[C] Abertos",TV Senado
-http://painel.tvdigitalsbl.net:80/vo/vo/12961
-#EXTINF:-1 tvg-ID="GloboRJ" tvg-name="Globo RJ" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo RJ
-http://painel.tvdigitalsbl.net:80/vo/vo/12962
-#EXTINF:-1 tvg-ID="A&E" tvg-name="Globo RJ | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo RJ | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12963
-#EXTINF:-1 tvg-ID="Globo RJ | HD" tvg-name="Globo RJ | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo RJ | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/12964
-#EXTINF:-1 tvg-ID="Globo Tv Rio Sul RJ | HD" tvg-name="Tv Rio Sul RJ | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Tv Rio Sul RJ | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12965
-#EXTINF:-1 tvg-ID="GloboSP" tvg-name="Globo SP" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo SP
-http://painel.tvdigitalsbl.net:80/vo/vo/12966
-#EXTINF:-1 tvg-ID="A&E" tvg-name="Globo SP | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo SP | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12967
-#EXTINF:-1 tvg-ID="Globo SP | HD" tvg-name="Globo SP | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo SP | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/15044
-#EXTINF:-1 tvg-ID="GloboMinas" tvg-name="Globo Minas" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Minas
-http://painel.tvdigitalsbl.net:80/vo/vo/12968
-#EXTINF:-1 tvg-ID="Globo Minas | HD" tvg-name="Globo Minas | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Minas | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12969
-#EXTINF:-1 tvg-ID="Globo Minas | FHD" tvg-name="Globo Minas | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Minas | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/12970
-#EXTINF:-1 tvg-ID="Globo Nordeste | SD" tvg-name="Globo Nordeste" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Nordeste
-http://painel.tvdigitalsbl.net:80/vo/vo/12971
-#EXTINF:-1 tvg-ID="GloboBrasilia" tvg-name="Globo Brasilia" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Brasilia
-http://painel.tvdigitalsbl.net:80/vo/vo/12972
-#EXTINF:-1 tvg-ID="Globo Brasília | SD" tvg-name="Globo Brasilia | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Brasilia | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12973
-#EXTINF:-1 tvg-ID="" tvg-name="Globo Brasilia | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Brasilia | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/12974
-#EXTINF:-1 tvg-ID="TVBahia" tvg-name="Globo Bahia" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Bahia
-http://painel.tvdigitalsbl.net:80/vo/vo/12975
-#EXTINF:-1 tvg-ID="Globo Santa Cruz | HD" tvg-name="Globo Santa Cruz BH | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Santa Cruz BH | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12976
-#EXTINF:-1 tvg-ID="Globo Subae BH | HD" tvg-name="Globo Subae BH | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Subae BH | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12977
-#EXTINF:-1 tvg-ID="EPTVCampinas" tvg-name="Globo Campinas" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Campinas
-http://painel.tvdigitalsbl.net:80/vo/vo/12978
-#EXTINF:-1 tvg-ID="Globo Campinas | SD" tvg-name="Globo Campinas | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Campinas | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12979
-#EXTINF:-1 tvg-ID="" tvg-name="Globo Campinas | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Campinas | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/12980
-#EXTINF:-1 tvg-ID="TVTemBauru" tvg-name="Globo Bauru" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Bauru
-http://painel.tvdigitalsbl.net:80/vo/vo/12981
-#EXTINF:-1 tvg-ID="" tvg-name="Globo SJRP" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo SJRP
-http://painel.tvdigitalsbl.net:80/vo/vo/12982
-#EXTINF:-1 tvg-ID="RBSTVPortoAlegre" tvg-name="Globo Porto Alegre" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Porto Alegre
-http://painel.tvdigitalsbl.net:80/vo/vo/12983
-#EXTINF:-1 tvg-ID="TVTemSorocaba" tvg-name="Globo Sorocaba" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Sorocaba
-http://painel.tvdigitalsbl.net:80/vo/vo/12984
-#EXTINF:-1 tvg-ID="Globo Santos | SD" tvg-name="Globo Santos" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Santos
-http://painel.tvdigitalsbl.net:80/vo/vo/12985
-#EXTINF:-1 tvg-ID="TVVanguardaSJdosCampos" tvg-name="Globo S. José Campos" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo S. José Campos
-http://painel.tvdigitalsbl.net:80/vo/vo/12986
-#EXTINF:-1 tvg-ID="Globo São Carlos | SD" tvg-name="Globo Sao Carlos" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Sao Carlos
-http://painel.tvdigitalsbl.net:80/vo/vo/12987
-#EXTINF:-1 tvg-ID="Globo Ribeirao Preto | SD" tvg-name="Globo Ribeirao Preto" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Ribeirao Preto
-http://painel.tvdigitalsbl.net:80/vo/vo/12988
-#EXTINF:-1 tvg-ID="Globo Ribeirao Preto | SD" tvg-name="Globo Ribeirão Preto | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Ribeirão Preto | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/15045
-#EXTINF:-1 tvg-ID="TVVerdesMaresFortaleza" tvg-name="Globo CE" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo CE
-http://painel.tvdigitalsbl.net:80/vo/vo/12989
-#EXTINF:-1 tvg-ID="RPCTVCuritiba" tvg-name="Globo Cuiaba" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Cuiaba
-http://painel.tvdigitalsbl.net:80/vo/vo/12990
-#EXTINF:-1 tvg-ID="" tvg-name="Globo Belem" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Belem
-http://painel.tvdigitalsbl.net:80/vo/vo/12991
-#EXTINF:-1 tvg-ID="Globo Belém | HD" tvg-name="Globo Belem | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Belem | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12992
-#EXTINF:-1 tvg-ID="RPCTVCuritiba" tvg-name="Globo Curitiba" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Curitiba
-http://painel.tvdigitalsbl.net:80/vo/vo/12993
-#EXTINF:-1 tvg-ID="Globo Curitiba | HD" tvg-name="Globo Curitiba | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Curitiba | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12994
-#EXTINF:-1 tvg-ID="Globo Paraiba | HD" tvg-name="Globo Paraiba | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Paraiba | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12995
-#EXTINF:-1 tvg-ID="Globo CE | SD" tvg-name="Globo CE | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo CE | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12996
-#EXTINF:-1 tvg-ID="" tvg-name="Globo RGN" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo RGN
-http://painel.tvdigitalsbl.net:80/vo/vo/12997
-#EXTINF:-1 tvg-ID="Globo Cabo Frio | HD" tvg-name="Globo Cabo Frio | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Cabo Frio | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/12998
-#EXTINF:-1 tvg-ID="Globo ES | FHD" tvg-name="Globo ES | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo ES | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13001
-#EXTINF:-1 tvg-ID="Globo Sergipe | HD" tvg-name="Globo Sergipe | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Sergipe | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13002
-#EXTINF:-1 tvg-ID="Globo Manaus | SD" tvg-name="Globo Manaus" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Manaus
-http://painel.tvdigitalsbl.net:80/vo/vo/13003
-#EXTINF:-1 tvg-ID="Globo Manaus | HD" tvg-name="Globo Manaus | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Manaus | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13004
-#EXTINF:-1 tvg-ID="Globo Manaus | SD" tvg-name="Globo MA | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo MA | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13005
-#EXTINF:-1 tvg-ID="TVAnhangueraGoiania" tvg-name="Globo Goiania" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Goiania
-http://painel.tvdigitalsbl.net:80/vo/vo/13006
-#EXTINF:-1 tvg-ID="Globo Goiania | HD" tvg-name="Globo Goiania | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Goiania | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13007
-#EXTINF:-1 tvg-ID="Globo Goiania | FHD" tvg-name="Globo Goiania | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Goiania | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13008
-#EXTINF:-1 tvg-ID="Globo BH | HD" tvg-name="Globo BH | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo BH | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13009
-#EXTINF:-1 tvg-ID="Globo Florianopolis | HD" tvg-name="Globo Florianopolis | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",Globo Florianopolis | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13010
-#EXTINF:-1 tvg-ID="TV Gazeta | HD" tvg-name="Gazeta SP | HD" tvg-logo="http://playhdtv.tk/logs/TV-Gazeta-Sul.jpg" group-title="[C] Abertos",Gazeta SP | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13012
-#EXTINF:-1 tvg-ID="Rede TV | HD" tvg-name="Rede TV | HD" tvg-logo="http://playhdtv.tk/logs/redetv.jpg" group-title="[C] Abertos",Rede TV | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13014
-#EXTINF:-1 tvg-ID="Rede TV | FHD" tvg-name="Rede TV | FHD" tvg-logo="http://playhdtv.tk/logs/redetv.jpg" group-title="[C] Abertos",Rede TV | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13015
-#EXTINF:-1 tvg-ID="Band RJ | HD" tvg-name="Band RJ | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band RJ | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13016
-#EXTINF:-1 tvg-ID="A&E" tvg-name="Band" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band
-http://painel.tvdigitalsbl.net:80/vo/vo/13017
-#EXTINF:-1 tvg-ID="A&E" tvg-name="Band | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13018
-#EXTINF:-1 tvg-ID="Band Campinas | HD" tvg-name="Band Campinas | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band Campinas | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13019
-#EXTINF:-1 tvg-ID="" tvg-name="Band Bahia" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band Bahia
-http://painel.tvdigitalsbl.net:80/vo/vo/13020
-#EXTINF:-1 tvg-ID="Band BSB | HD" tvg-name="Band BSB | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band BSB | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13021
-#EXTINF:-1 tvg-ID="Band RS | HD" tvg-name="Band RS | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band RS | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13022
-#EXTINF:-1 tvg-ID="Band Sergipe | HD" tvg-name="Band Sergipe | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band Sergipe | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13023
-#EXTINF:-1 tvg-ID="Band Paraná | HD" tvg-name="Band Paraná | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band Paraná | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13024
-#EXTINF:-1 tvg-ID="Band GO (TV Goiânia) | HD" tvg-name="Band Goiania | HD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band Goiania | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13025
-#EXTINF:-1 tvg-ID="Band GO (TV Goiânia) | HD" tvg-name="Band Goiania | FHD" tvg-logo="http://playhdtv.tk/logs/band.jpg" group-title="[C] Abertos",Band Goiania | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13026
-#EXTINF:-1 tvg-ID="SBT" tvg-name="SBT SP" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT SP
-http://painel.tvdigitalsbl.net:80/vo/vo/13027
-#EXTINF:-1 tvg-ID="SBT SP | HD" tvg-name="SBT SP | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT SP | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13028
-#EXTINF:-1 tvg-ID="SBT BSB | HD" tvg-name="SBT BSB | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT BSB | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13029
-#EXTINF:-1 tvg-ID="SBT RJ | HD" tvg-name="SBT RJ | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT RJ | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13030
-#EXTINF:-1 tvg-ID="SBT RS | HD" tvg-name="SBT RS | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT RS | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13031
-#EXTINF:-1 tvg-ID="SBT Sergipe | HD" tvg-name="SBT Sergipe | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT Sergipe | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13032
-#EXTINF:-1 tvg-ID="SBT SC | HD" tvg-name="SBT SC | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT SC | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13033
-#EXTINF:-1 tvg-ID="SBT PR | HD" tvg-name="SBT PR | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT PR | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13034
-#EXTINF:-1 tvg-ID="" tvg-name="SBT MG | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT MG | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13035
-#EXTINF:-1 tvg-ID="SBT GO (Tv Serra Dourada) | HD" tvg-name="SBT Goiania | HD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT Goiania | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13036
-#EXTINF:-1 tvg-ID="SBT GO (Tv Serra Dourada) | HD" tvg-name="SBT Goiania | FHD" tvg-logo="http://playhdtv.tk/logs/sbt.jpg" group-title="[C] Abertos",SBT Goiania | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13037
-#EXTINF:-1 tvg-ID="RECORDTV" tvg-name="Record SP" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record SP
-http://painel.tvdigitalsbl.net:80/vo/vo/13038
-#EXTINF:-1 tvg-ID="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="Record SP | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record SP | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13039
-#EXTINF:-1 tvg-ID="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="Record SP | FHD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record SP | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13040
-#EXTINF:-1 tvg-ID="Record TV RJ | HD" tvg-name="Record RJ | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record RJ | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13041
-#EXTINF:-1 tvg-ID="RBS | HD" tvg-name="RBS | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",RBS | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13042
-#EXTINF:-1 tvg-ID="Record BSB | HD" tvg-name="Record BSB | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record BSB | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13043
-#EXTINF:-1 tvg-ID="RBTV ES | FHD" tvg-name="RBTV ES | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Globos",RBTV ES | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13046
-#EXTINF:-1 tvg-ID="Record RS | HD" tvg-name="Record RS | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record RS | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13047
-#EXTINF:-1 tvg-ID="Record SJRP | HD" tvg-name="Record SJRP | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record SJRP | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13048
-#EXTINF:-1 tvg-ID="" tvg-name="Record Sergipe | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Sergipe | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13049
-#EXTINF:-1 tvg-ID="Record Belem | HD" tvg-name="Record Belem | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Belem | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13050
-#EXTINF:-1 tvg-ID="Record Santos | HD" tvg-name="Record Santos | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Santos | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13051
-#EXTINF:-1 tvg-ID="Record Minas | HD" tvg-name="Record Minas | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Minas | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13052
-#EXTINF:-1 tvg-ID="Record Goiania | HD" tvg-name="Record Goiania | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Goiania | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13053
-#EXTINF:-1 tvg-ID="Record Goiania | FHD" tvg-name="Record Goiania | FHD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Goiania | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13054
-#EXTINF:-1 tvg-ID="Record BH | HD" tvg-name="Record BH | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record BH | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13055
-#EXTINF:-1 tvg-ID="" tvg-name="Record MG" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record MG
-http://painel.tvdigitalsbl.net:80/vo/vo/13057
-#EXTINF:-1 tvg-ID="Record Vitoria | FHD" tvg-name="Record Vitoria | FHD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Vitoria | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13060
-#EXTINF:-1 tvg-ID="Record Campinas | HD" tvg-name="Record Campinas | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Campinas | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13061
-#EXTINF:-1 tvg-ID="Record Campinas | FHD" tvg-name="Record Campinas | FHD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Campinas | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13062
-#EXTINF:-1 tvg-ID="Record SC | HD" tvg-name="Record SC | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record SC | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13063
-#EXTINF:-1 tvg-ID="Record Parana | HD" tvg-name="Record Parana | HD" tvg-logo="http://playhdtv.tk/logs/record.jpg" group-title="[C] Abertos",Record Parana | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13064
-#EXTINF:-1 tvg-ID="RedeBrasil" tvg-name="Rede Brasil" tvg-logo="http://playhdtv.tk/logs/rede-brasil.jpg" group-title="[C] Abertos",Rede Brasil
-http://painel.tvdigitalsbl.net:80/vo/vo/13065
-#EXTINF:-1 tvg-ID="PolishopTV" tvg-name="Polishop" tvg-logo="https://i.ibb.co/bdgQfwy/polishop.png" group-title="[C] Abertos",Polishop
-http://painel.tvdigitalsbl.net:80/vo/vo/13066
-#EXTINF:-1 tvg-ID="NHK" tvg-name="NHK" tvg-logo="https://i.ibb.co/tqZFH0S/nhk.jpg" group-title="[C] Abertos",NHK
-http://painel.tvdigitalsbl.net:80/vo/vo/13067
-#EXTINF:-1 tvg-ID="FoodNetwork" tvg-name="Food Network" tvg-logo="http://playhdtv.tk/logs/foodnetwor.jpg" group-title="[C] Variedades",Food Network
-http://painel.tvdigitalsbl.net:80/vo/vo/13068
-#EXTINF:-1 tvg-ID="Food Network | HD" tvg-name="Food Network | HD" tvg-logo="http://playhdtv.tk/logs/foodnetwor.jpg" group-title="[C] Variedades",Food Network | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13069
-#EXTINF:-1 tvg-ID="Food Network | FHD" tvg-name="Food Network | FHD" tvg-logo="http://playhdtv.tk/logs/foodnetwor.jpg" group-title="[C] Variedades",Food Network | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13070
-#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="http://playhdtv.tk/logs/tlc.jpg" group-title="[C] Variedades",TLC
-http://painel.tvdigitalsbl.net:80/vo/vo/13071
-#EXTINF:-1 tvg-ID="TLC | HD" tvg-name="TLC | HD" tvg-logo="http://playhdtv.tk/logs/tlc.jpg" group-title="[C] Variedades",TLC | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13072
-#EXTINF:-1 tvg-ID="TLC | FHD" tvg-name="TLC | FHD" tvg-logo="http://playhdtv.tk/logs/tlc.jpg" group-title="[C] Variedades",TLC | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13073
-#EXTINF:-1 tvg-ID="FoxLife" tvg-name="Fox Life" tvg-logo="http://playhdtv.tk/logs/foxlife.jpg" group-title="[C] Filmes & Séries",Fox Life
-http://painel.tvdigitalsbl.net:80/vo/vo/13074
-#EXTINF:-1 tvg-ID="FOX Life | HD" tvg-name="FOX Life | HD" tvg-logo="http://playhdtv.tk/logs/foxlife.jpg" group-title="[C] Filmes & Séries",FOX Life | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13075
-#EXTINF:-1 tvg-ID="E!" tvg-name="E!" tvg-logo="http://playhdtv.tk/logs/E!-.jpg" group-title="[C] Variedades",E!
-http://painel.tvdigitalsbl.net:80/vo/vo/13076
-#EXTINF:-1 tvg-ID="E! | HD" tvg-name="E! | HD" tvg-logo="http://playhdtv.tk/logs/E!-.jpg" group-title="[C] Variedades",E! | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13077
-#EXTINF:-1 tvg-ID="E! | FHD" tvg-name="E! | FHD" tvg-logo="http://playhdtv.tk/logs/E!-.jpg" group-title="[C] Variedades",E! | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13078
-#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT" tvg-logo="http://playhdtv.tk/logs/gnt.jpg" group-title="[C] Variedades",GNT
-http://painel.tvdigitalsbl.net:80/vo/vo/13079
-#EXTINF:-1 tvg-ID="GNT | HD" tvg-name="GNT | HD" tvg-logo="http://playhdtv.tk/logs/gnt.jpg" group-title="[C] Variedades",GNT | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13080
-#EXTINF:-1 tvg-ID="GNT | FHD" tvg-name="GNT | FHD" tvg-logo="http://playhdtv.tk/logs/gnt.jpg" group-title="[C] Variedades",GNT | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13081
-#EXTINF:-1 tvg-ID="Disc. Home & Health | SD" tvg-name="Home & Health Discovery" tvg-logo="http://playhdtv.tk/logs/discovery-home-healt.jpg" group-title="[C] Documentários",Home & Health Discovery
-http://painel.tvdigitalsbl.net:80/vo/vo/13082
-#EXTINF:-1 tvg-ID="Disc. Home & Health | HD" tvg-name="Home & Health Discovery | HD" tvg-logo="http://playhdtv.tk/logs/discovery-home-healt.jpg" group-title="[C] Documentários",Home & Health Discovery | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13083
-#EXTINF:-1 tvg-ID="Disc. Home & Health | FHD" tvg-name="Home & Health Discovery | FHD" tvg-logo="http://playhdtv.tk/logs/discovery-home-healt.jpg" group-title="[C] Documentários",Home & Health Discovery | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13084
-#EXTINF:-1 tvg-ID="OFF" tvg-name="OFF" tvg-logo="http://playhdtv.tk/logs/canaloff.jpg" group-title="[C] Esportes",OFF
-http://painel.tvdigitalsbl.net:80/vo/vo/13085
-#EXTINF:-1 tvg-ID="OFF | HD" tvg-name="OFF | HD" tvg-logo="http://playhdtv.tk/logs/canaloff.jpg" group-title="[C] Esportes",OFF | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13086
-#EXTINF:-1 tvg-ID="OFF | FHD" tvg-name="OFF | FHD" tvg-logo="http://playhdtv.tk/logs/canaloff.jpg" group-title="[C] Esportes",OFF | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13087
-#EXTINF:-1 tvg-ID="BIS" tvg-name="BIS" tvg-logo="http://playhdtv.tk/logs/biss.jpg" group-title="[C] Variedades",BIS
-http://painel.tvdigitalsbl.net:80/vo/vo/13088
-#EXTINF:-1 tvg-ID="BIS | HD" tvg-name="BIS | HD" tvg-logo="http://playhdtv.tk/logs/biss.jpg" group-title="[C] Variedades",BIS | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13089
-#EXTINF:-1 tvg-ID="BIS | FHD" tvg-name="BIS | FHD" tvg-logo="http://playhdtv.tk/logs/biss.jpg" group-title="[C] Variedades",BIS | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13090
-#EXTINF:-1 tvg-ID="MaisGlobosat" tvg-name="+Globosat" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Variedades",+Globosat
-http://painel.tvdigitalsbl.net:80/vo/vo/13091
-#EXTINF:-1 tvg-ID="Mais Globosat | HD" tvg-name="+Globosat | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Variedades",+Globosat | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13092
-#EXTINF:-1 tvg-ID="Mais Globosat | FHD" tvg-name="+Globosat | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Variedades",+Globosat | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13093
-#EXTINF:-1 tvg-ID="Viva" tvg-name="Viva" tvg-logo="http://playhdtv.tk/logs/viva.jpg" group-title="[C] Variedades",Viva
-http://painel.tvdigitalsbl.net:80/vo/vo/13094
-#EXTINF:-1 tvg-ID="Viva | HD" tvg-name="Viva | HD" tvg-logo="http://playhdtv.tk/logs/viva.jpg" group-title="[C] Variedades",Viva | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13095
-#EXTINF:-1 tvg-ID="SporTV" tvg-name="SporTV" tvg-logo="http://playhdtv.tk/logs/sportv.jpg" group-title="[C] Esportes",SporTV
-http://painel.tvdigitalsbl.net:80/vo/vo/13096
-#EXTINF:-1 tvg-ID="SporTV | HD" tvg-name="SporTV | HD" tvg-logo="http://playhdtv.tk/logs/sportv.jpg" group-title="[C] Esportes",SporTV | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13097
-#EXTINF:-1 tvg-ID="Sportv | FHD" tvg-name="SporTV | FHD" tvg-logo="http://playhdtv.tk/logs/sportv.jpg" group-title="[C] Esportes",SporTV | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13098
-#EXTINF:-1 tvg-ID="SporTV2" tvg-name="SporTV 2" tvg-logo="http://playhdtv.tk/logs/sportv-2.jpg" group-title="[C] Esportes",SporTV 2
-http://painel.tvdigitalsbl.net:80/vo/vo/13099
-#EXTINF:-1 tvg-ID="SporTV 2 | HD" tvg-name="SporTV 2 | HD" tvg-logo="http://playhdtv.tk/logs/sportv-2.jpg" group-title="[C] Esportes",SporTV 2 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13100
-#EXTINF:-1 tvg-ID="SporTV2 | FHD" tvg-name="SporTV 2 | FHD" tvg-logo="http://playhdtv.tk/logs/sportv-2.jpg" group-title="[C] Esportes",SporTV 2 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13101
-#EXTINF:-1 tvg-ID="SporTV3" tvg-name="SporTV 3" tvg-logo="http://playhdtv.tk/logs/sportv-3.jpg" group-title="[C] Esportes",SporTV 3
-http://painel.tvdigitalsbl.net:80/vo/vo/13102
-#EXTINF:-1 tvg-ID="SporTV 3 | HD" tvg-name="SporTV 3 | HD" tvg-logo="http://playhdtv.tk/logs/sportv-3.jpg" group-title="[C] Esportes",SporTV 3 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13103
-#EXTINF:-1 tvg-ID="SporTV3 | FHD" tvg-name="SporTV 3 | FHD" tvg-logo="http://playhdtv.tk/logs/sportv-3.jpg" group-title="[C] Esportes",SporTV 3 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13104
-#EXTINF:-1 tvg-ID="GloboNews" tvg-name="Globo News" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Notícias",Globo News
-http://painel.tvdigitalsbl.net:80/vo/vo/13105
-#EXTINF:-1 tvg-ID="Globo News | HD" tvg-name="Globo News | HD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Notícias",Globo News | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13106
-#EXTINF:-1 tvg-ID="Globo News | FHD" tvg-name="Globo News | FHD" tvg-logo="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png" group-title="[C] Notícias",Globo News | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13107
-#EXTINF:-1 tvg-ID="Multishow" tvg-name="Multishow" tvg-logo="http://playhdtv.tk/logs/multishow.jpg" group-title="[C] Variedades",Multishow
-http://painel.tvdigitalsbl.net:80/vo/vo/13108
-#EXTINF:-1 tvg-ID="Multishow | HD" tvg-name="Multishow | HD" tvg-logo="http://playhdtv.tk/logs/multishow.jpg" group-title="[C] Variedades",Multishow | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13109
-#EXTINF:-1 tvg-ID="Multishow | FHD" tvg-name="Multishow | FHD" tvg-logo="http://playhdtv.tk/logs/multishow.jpg" group-title="[C] Variedades",Multishow | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13110
-#EXTINF:-1 tvg-ID="Studio Universal | SD" tvg-name="Universal Channel TV" tvg-logo="http://playhdtv.tk/logs/universal-channel.jpg" group-title="[C] Filmes & Séries",Universal Channel TV
-http://painel.tvdigitalsbl.net:80/vo/vo/13111
-#EXTINF:-1 tvg-ID="Studio Universal | HD" tvg-name="Universal TV | HD" tvg-logo="http://playhdtv.tk/logs/universal-channel.jpg" group-title="[C] Filmes & Séries",Universal TV | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13112
-#EXTINF:-1 tvg-ID="Studio Universal | FHD" tvg-name="Universal TV | FHD" tvg-logo="http://playhdtv.tk/logs/universal-channel.jpg" group-title="[C] Filmes & Séries",Universal TV | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13113
-#EXTINF:-1 tvg-ID="Warner TV | SD" tvg-name="Warner Channel" tvg-logo="http://playhdtv.tk/logs/wanerchannel.jpg" group-title="[C] Filmes & Séries",Warner Channel
-http://painel.tvdigitalsbl.net:80/vo/vo/13114
-#EXTINF:-1 tvg-ID="Warner TV | HD" tvg-name="Warner Channel | HD" tvg-logo="http://playhdtv.tk/logs/wanerchannel.jpg" group-title="[C] Filmes & Séries",Warner Channel | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13115
-#EXTINF:-1 tvg-ID="Warner TV | FHD" tvg-name="Warner | FHD" tvg-logo="http://playhdtv.tk/logs/wanerchannel.jpg" group-title="[C] Filmes & Séries",Warner | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13116
-#EXTINF:-1 tvg-ID="CanalSony" tvg-name="Canal Sony" tvg-logo="http://playhdtv.tk/logs/sonny-canal.jpg" group-title="[C] Filmes & Séries",Canal Sony
-http://painel.tvdigitalsbl.net:80/vo/vo/13117
-#EXTINF:-1 tvg-ID="Canal Sony | HD" tvg-name="Canal Sony | HD" tvg-logo="http://playhdtv.tk/logs/sonny-canal.jpg" group-title="[C] Filmes & Séries",Canal Sony | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13118
-#EXTINF:-1 tvg-ID="Canal Sony | FHD" tvg-name="Canal Sony | FHD" tvg-logo="http://playhdtv.tk/logs/sonny-canal.jpg" group-title="[C] Filmes & Séries",Canal Sony | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13119
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://playhdtv.tk/logs/fox.jpg" group-title="[C] Filmes & Séries",FOX
-http://painel.tvdigitalsbl.net:80/vo/vo/13120
-#EXTINF:-1 tvg-ID="FOX | HD" tvg-name="FOX | HD" tvg-logo="http://playhdtv.tk/logs/fox.jpg" group-title="[C] Filmes & Séries",FOX | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13121
-#EXTINF:-1 tvg-ID="FOX | HD" tvg-name="FOX | HD - LEG" tvg-logo="http://playhdtv.tk/logs/fox.jpg" group-title="[C] Legendado",FOX | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13122
-#EXTINF:-1 tvg-ID="Fox | FHD" tvg-name="FOX | FHD" tvg-logo="http://playhdtv.tk/logs/fox.jpg" group-title="[C] Filmes & Séries",FOX | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13123
-#EXTINF:-1 tvg-ID="Fox | FHD" tvg-name="FOX | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/fox.jpg" group-title="[C] Legendado",FOX | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13124
-#EXTINF:-1 tvg-ID="Fox Premium 1 | HD" tvg-name="Fox Premium 1 | HD" tvg-logo="https://i.ibb.co/qjKBFFR/foxpremium1.jpg" group-title="[C] Filmes & Séries",Fox Premium 1 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13125
-#EXTINF:-1 tvg-ID="Fox Premium 1 | HD" tvg-name="Fox Premium 1  | HD - LEG" tvg-logo="https://i.ibb.co/qjKBFFR/foxpremium1.jpg" group-title="[C] Legendado",Fox Premium 1  | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13126
-#EXTINF:-1 tvg-ID="Fox Premium 1 | HD" tvg-name="Fox Premium 1 | FHD" tvg-logo="https://i.ibb.co/qjKBFFR/foxpremium1.jpg" group-title="[C] Filmes & Séries",Fox Premium 1 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13127
-#EXTINF:-1 tvg-ID="Fox Premium 1 | HD" tvg-name="Fox Premium 1 | FHD - LEG" tvg-logo="https://i.ibb.co/qjKBFFR/foxpremium1.jpg" group-title="[C] Legendado",Fox Premium 1 | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13128
-#EXTINF:-1 tvg-ID="Fox Premium 2 | HD" tvg-name="Fox Premium 2 | HD" tvg-logo="https://i.ibb.co/6FGG1d0/FOX-PREMIUM-2.png" group-title="[C] Filmes & Séries",Fox Premium 2 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13129
-#EXTINF:-1 tvg-ID="Fox Premium 2 | HD" tvg-name="Fox Premium 2 | HD - LEG" tvg-logo="https://i.ibb.co/6FGG1d0/FOX-PREMIUM-2.png" group-title="[C] Legendado",Fox Premium 2 | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13130
-#EXTINF:-1 tvg-ID="Fox Premium 2 | HD" tvg-name="Fox Premium 2 | FHD" tvg-logo="https://i.ibb.co/6FGG1d0/FOX-PREMIUM-2.png" group-title="[C] Filmes & Séries",Fox Premium 2 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13131
-#EXTINF:-1 tvg-ID="Fox Premium 2 | HD" tvg-name="Fox Premium 2 | FHD - LEG" tvg-logo="https://i.ibb.co/6FGG1d0/FOX-PREMIUM-2.png" group-title="[C] Legendado",Fox Premium 2 | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13132
-#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="http://playhdtv.tk/logs/tnt.jpg" group-title="[C] Filmes & Séries",TNT
-http://painel.tvdigitalsbl.net:80/vo/vo/13133
-#EXTINF:-1 tvg-ID="TNT | HD" tvg-name="TNT | HD" tvg-logo="http://playhdtv.tk/logs/tnt.jpg" group-title="[C] Filmes & Séries",TNT | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13134
-#EXTINF:-1 tvg-ID="TNT | FHD" tvg-name="TNT | FHD" tvg-logo="http://playhdtv.tk/logs/tnt.jpg" group-title="[C] Filmes & Séries",TNT | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13135
-#EXTINF:-1 tvg-ID="TNTSeries" tvg-name="TNT Series" tvg-logo="http://playhdtv.tk/logs/tnt-series.jpg" group-title="[C] Filmes & Séries",TNT Series
-http://painel.tvdigitalsbl.net:80/vo/vo/13136
-#EXTINF:-1 tvg-ID="TNT Series | HD" tvg-name="TNT Series | HD" tvg-logo="http://playhdtv.tk/logs/tnt-series.jpg" group-title="[C] Filmes & Séries",TNT Series | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13137
-#EXTINF:-1 tvg-ID="TNT Series | FHD" tvg-name="TNT Series | FHD" tvg-logo="http://playhdtv.tk/logs/tnt-series.jpg" group-title="[C] Filmes & Séries",TNT Series | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13138
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://playhdtv.tk/logs/axn.jpg" group-title="[C] Filmes & Séries",AXN
-http://painel.tvdigitalsbl.net:80/vo/vo/13139
-#EXTINF:-1 tvg-ID="AXN | HD" tvg-name="AXN | HD" tvg-logo="http://playhdtv.tk/logs/axn.jpg" group-title="[C] Filmes & Séries",AXN | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13140
-#EXTINF:-1 tvg-ID="AXN | HD" tvg-name="AXN | HD - LEG" tvg-logo="http://playhdtv.tk/logs/axn.jpg" group-title="[C] Legendado",AXN | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13141
-#EXTINF:-1 tvg-ID="AXN | FHD" tvg-name="AXN | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/axn.jpg" group-title="[C] Legendado",AXN | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13142
-#EXTINF:-1 tvg-ID="AXN | HD" tvg-name="AXN | FHD" tvg-logo="http://playhdtv.tk/logs/axn.jpg" group-title="[C] Filmes & Séries",AXN | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13143
-#EXTINF:-1 tvg-ID="MegaPix" tvg-name="MegaPix" tvg-logo="http://playhdtv.tk/logs/megapix.jpg" group-title="[C] Filmes & Séries",MegaPix
-http://painel.tvdigitalsbl.net:80/vo/vo/13144
-#EXTINF:-1 tvg-ID="Megapix | HD" tvg-name="Megapix  | HD" tvg-logo="http://playhdtv.tk/logs/megapix.jpg" group-title="[C] Filmes & Séries",Megapix  | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13145
-#EXTINF:-1 tvg-ID="Megapix | FHD" tvg-name="Megapix | FHD" tvg-logo="http://playhdtv.tk/logs/megapix.jpg" group-title="[C] Filmes & Séries",Megapix | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13146
-#EXTINF:-1 tvg-ID="TelecineAction" tvg-name="CineMax" tvg-logo="http://playhdtv.tk/logs/cinemax.jpg" group-title="[C] Filmes & Séries",CineMax
-http://painel.tvdigitalsbl.net:80/vo/vo/13147
-#EXTINF:-1 tvg-ID="Cinemax | HD" tvg-name="CineMax | HD" tvg-logo="http://playhdtv.tk/logs/cinemax.jpg" group-title="[C] Filmes & Séries",CineMax | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13148
-#EXTINF:-1 tvg-ID="Cinemax | FHD" tvg-name="CineMax | FHD" tvg-logo="http://playhdtv.tk/logs/cinemax.jpg" group-title="[C] Filmes & Séries",CineMax | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13149
-#EXTINF:-1 tvg-ID="TelecineAction" tvg-name="Telecine Action" tvg-logo="http://playhdtv.tk/logs/tc-action.jpg" group-title="[C] Filmes & Séries",Telecine Action
-http://painel.tvdigitalsbl.net:80/vo/vo/13150
-#EXTINF:-1 tvg-ID="Telecine Action | HD" tvg-name="Telecine Action | HD" tvg-logo="http://playhdtv.tk/logs/tc-action.jpg" group-title="[C] Filmes & Séries",Telecine Action | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13151
-#EXTINF:-1 tvg-ID="Telecine Action | HD" tvg-name="Telecine Action | HD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-action.jpg" group-title="[C] Legendado",Telecine Action | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13152
-#EXTINF:-1 tvg-ID="Telecine Action | FHD" tvg-name="Telecine Action | FHD" tvg-logo="http://playhdtv.tk/logs/tc-action.jpg" group-title="[C] Filmes & Séries",Telecine Action | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13153
-#EXTINF:-1 tvg-ID="Telecine Action | FHD" tvg-name="Telecine Action | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-action.jpg" group-title="[C] Legendado",Telecine Action | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13154
-#EXTINF:-1 tvg-ID="TelecineCult" tvg-name="Telecine Cult" tvg-logo="http://playhdtv.tk/logs/tc-cult.jpg" group-title="[C] Filmes & Séries",Telecine Cult
-http://painel.tvdigitalsbl.net:80/vo/vo/13155
-#EXTINF:-1 tvg-ID="Telecine Cult | HD" tvg-name="Telecine Cult | HD" tvg-logo="http://playhdtv.tk/logs/tc-cult.jpg" group-title="[C] Filmes & Séries",Telecine Cult | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13156
-#EXTINF:-1 tvg-ID="Telecine Cult | HD" tvg-name="Telecine Cult | HD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-cult.jpg" group-title="[C] Legendado",Telecine Cult | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13157
-#EXTINF:-1 tvg-ID="Telecine Cult | FHD" tvg-name="Telecine Cult | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-cult.jpg" group-title="[C] Legendado",Telecine Cult | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13158
-#EXTINF:-1 tvg-ID="Telecine Cult | FHD" tvg-name="Telecine Cult | FHD" tvg-logo="http://playhdtv.tk/logs/tc-cult.jpg" group-title="[C] Filmes & Séries",Telecine Cult | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13159
-#EXTINF:-1 tvg-ID="TelecineFun" tvg-name="Telecine Fun" tvg-logo="http://playhdtv.tk/logs/tc-fun.jpg" group-title="[C] Filmes & Séries",Telecine Fun
-http://painel.tvdigitalsbl.net:80/vo/vo/13160
-#EXTINF:-1 tvg-ID="Telecine Fun | HD" tvg-name="Telecine Fun | HD" tvg-logo="http://playhdtv.tk/logs/tc-fun.jpg" group-title="[C] Filmes & Séries",Telecine Fun | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13161
-#EXTINF:-1 tvg-ID="Telecine Fun | HD" tvg-name="Telecine Fun | HD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-fun.jpg" group-title="[C] Legendado",Telecine Fun | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13162
-#EXTINF:-1 tvg-ID="Telecine Fun | HD" tvg-name="Telecine Fun | FHD" tvg-logo="http://playhdtv.tk/logs/tc-fun.jpg" group-title="[C] Filmes & Séries",Telecine Fun | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13163
-#EXTINF:-1 tvg-ID="Telecine Fun | FHD" tvg-name="Telecine Fun | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-fun.jpg" group-title="[C] Legendado",Telecine Fun | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13164
-#EXTINF:-1 tvg-ID="TelecinePipoca" tvg-name="Telecine Pipoca" tvg-logo="http://playhdtv.tk/logs/tc-pipoca.jpg" group-title="[C] Filmes & Séries",Telecine Pipoca
-http://painel.tvdigitalsbl.net:80/vo/vo/13165
-#EXTINF:-1 tvg-ID="Telecine Pipoca | HD" tvg-name="Telecine Pipoca | HD" tvg-logo="http://playhdtv.tk/logs/tc-pipoca.jpg" group-title="[C] Filmes & Séries",Telecine Pipoca | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13166
-#EXTINF:-1 tvg-ID="Telecine Pipoca | HD" tvg-name="Telecine Pipoca | HD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-pipoca.jpg" group-title="[C] Legendado",Telecine Pipoca | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13167
-#EXTINF:-1 tvg-ID="Telecine Pipoca | FHD" tvg-name="Telecine Pipoca | FHD" tvg-logo="http://playhdtv.tk/logs/tc-pipoca.jpg" group-title="[C] Filmes & Séries",Telecine Pipoca | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13168
-#EXTINF:-1 tvg-ID="Telecine Pipoca | FHD" tvg-name="Telecine Pipoca | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-pipoca.jpg" group-title="[C] Legendado",Telecine Pipoca | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13169
-#EXTINF:-1 tvg-ID="TelecinePremium" tvg-name="Telecine Premium" tvg-logo="http://playhdtv.tk/logs/tc-premium.jpg" group-title="[C] Filmes & Séries",Telecine Premium
-http://painel.tvdigitalsbl.net:80/vo/vo/13170
-#EXTINF:-1 tvg-ID="Telecine Premium | HD" tvg-name="Telecine Premium | HD" tvg-logo="http://playhdtv.tk/logs/tc-premium.jpg" group-title="[C] Filmes & Séries",Telecine Premium | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13171
-#EXTINF:-1 tvg-ID="Telecine Premium | HD" tvg-name="Telecine Premium | HD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-premium.jpg" group-title="[C] Legendado",Telecine Premium | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13172
-#EXTINF:-1 tvg-ID="Telecine Premium | FHD" tvg-name="Telecine Premium | FHD" tvg-logo="http://playhdtv.tk/logs/tc-premium.jpg" group-title="[C] Filmes & Séries",Telecine Premium | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13173
-#EXTINF:-1 tvg-ID="Telecine Premium | FHD" tvg-name="Telecine Premium | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-premium.jpg" group-title="[C] Legendado",Telecine Premium | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13174
-#EXTINF:-1 tvg-ID="TelecineTouch" tvg-name="Telecine Touch" tvg-logo="http://playhdtv.tk/logs/tc-touch.jpg" group-title="[C] Filmes & Séries",Telecine Touch
-http://painel.tvdigitalsbl.net:80/vo/vo/13175
-#EXTINF:-1 tvg-ID="Telecine Touch | HD" tvg-name="Telecine Touch | HD" tvg-logo="http://playhdtv.tk/logs/tc-touch.jpg" group-title="[C] Filmes & Séries",Telecine Touch | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13176
-#EXTINF:-1 tvg-ID="Telecine Touch | HD" tvg-name="Telecine Touch | HD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-touch.jpg" group-title="[C] Legendado",Telecine Touch | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13177
-#EXTINF:-1 tvg-ID="Telecine Touch | FHD" tvg-name="Telecine Touch | FHD" tvg-logo="http://playhdtv.tk/logs/tc-touch.jpg" group-title="[C] Filmes & Séries",Telecine Touch | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13178
-#EXTINF:-1 tvg-ID="Telecine Touch | FHD" tvg-name="Telecine Touch | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/tc-touch.jpg" group-title="[C] Legendado",Telecine Touch | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13179
-#EXTINF:-1 tvg-ID="CanalBrasil" tvg-name="Canal Brasil" tvg-logo="http://playhdtv.tk/logs/canal-brasil.png" group-title="[C] Filmes & Séries",Canal Brasil
-http://painel.tvdigitalsbl.net:80/vo/vo/13180
-#EXTINF:-1 tvg-ID="Canal Brasil | FHD" tvg-name="Canal Brasil | FHD" tvg-logo="http://playhdtv.tk/logs/canal-brasil.png" group-title="[C] Filmes & Séries",Canal Brasil | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13181
-#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="http://playhdtv.tk/logs/hbo.jpg" group-title="[C] Filmes & Séries",HBO
-http://painel.tvdigitalsbl.net:80/vo/vo/13182
-#EXTINF:-1 tvg-ID="HBO | HD" tvg-name="HBO | HD" tvg-logo="http://playhdtv.tk/logs/hbo.jpg" group-title="[C] Filmes & Séries",HBO | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13183
-#EXTINF:-1 tvg-ID="HBO | HD" tvg-name="HBO | HD - LEG" tvg-logo="http://playhdtv.tk/logs/hbo.jpg" group-title="[C] Legendado",HBO | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13184
-#EXTINF:-1 tvg-ID="HBO | FHD" tvg-name="HBO | FHD" tvg-logo="http://playhdtv.tk/logs/hbo.jpg" group-title="[C] Filmes & Séries",HBO | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13185
-#EXTINF:-1 tvg-ID="HBO | FHD" tvg-name="HBO | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/hbo.jpg" group-title="[C] Legendado",HBO | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13186
-#EXTINF:-1 tvg-ID="HBO 2 | SD" tvg-name="HBO 2" tvg-logo="http://playhdtv.tk/logs/hbo-2.jpg" group-title="[C] Filmes & Séries",HBO 2
-http://painel.tvdigitalsbl.net:80/vo/vo/13187
-#EXTINF:-1 tvg-ID="HBO 2 | HD" tvg-name="HBO 2 | HD" tvg-logo="http://playhdtv.tk/logs/hbo-2.jpg" group-title="[C] Filmes & Séries",HBO 2 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13188
-#EXTINF:-1 tvg-ID="HBO2 | FHD" tvg-name="HBO 2 | FHD" tvg-logo="http://playhdtv.tk/logs/hbo-2.jpg" group-title="[C] Filmes & Séries",HBO 2 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13189
-#EXTINF:-1 tvg-ID="HBO Family | SD" tvg-name="HBO Family" tvg-logo="http://playhdtv.tk/logs/hbo-famly.jpg" group-title="[C] Filmes & Séries",HBO Family
-http://painel.tvdigitalsbl.net:80/vo/vo/13190
-#EXTINF:-1 tvg-ID="HBO Family | HD" tvg-name="HBO Family | HD" tvg-logo="http://playhdtv.tk/logs/hbo-famly.jpg" group-title="[C] Filmes & Séries",HBO Family | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13191
-#EXTINF:-1 tvg-ID="HBO Family | FHD" tvg-name="HBO Familly | FHD" tvg-logo="http://playhdtv.tk/logs/hbo-famly.jpg" group-title="[C] Filmes & Séries",HBO Familly | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13192
-#EXTINF:-1 tvg-ID="" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/S0Xpypm/hbomundi.jpg" group-title="[C] Filmes & Séries",HBO MUNDI
-http://painel.tvdigitalsbl.net:80/vo/vo/13193
-#EXTINF:-1 tvg-ID="" tvg-name="HBO MUNDI | HD" tvg-logo="https://i.ibb.co/S0Xpypm/hbomundi.jpg" group-title="[C] Filmes & Séries",HBO MUNDI | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13194
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi | HD - LEG" tvg-logo="https://i.ibb.co/S0Xpypm/hbomundi.jpg" group-title="[C] Legendado",HBO Mundi | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13195
-#EXTINF:-1 tvg-ID="" tvg-name="HBO MUNDI | FHD" tvg-logo="https://i.ibb.co/S0Xpypm/hbomundi.jpg" group-title="[C] Filmes & Séries",HBO MUNDI | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13196
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Mundi | FHD - LEG" tvg-logo="https://i.ibb.co/S0Xpypm/hbomundi.jpg" group-title="[C] Legendado",HBO Mundi | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13197
-#EXTINF:-1 tvg-ID="HBOPlus" tvg-name="HBO Plus" tvg-logo="http://playhdtv.tk/logs/hbo-plus.jpg" group-title="[C] Filmes & Séries",HBO Plus
-http://painel.tvdigitalsbl.net:80/vo/vo/13198
-#EXTINF:-1 tvg-ID="HBO Plus | HD" tvg-name="HBO Plus | HD" tvg-logo="http://playhdtv.tk/logs/hbo-plus.jpg" group-title="[C] Filmes & Séries",HBO Plus | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13199
-#EXTINF:-1 tvg-ID="HBO Plus | HD" tvg-name="HBO Plus | HD - LEG" tvg-logo="http://playhdtv.tk/logs/hbo-plus.jpg" group-title="[C] Legendado",HBO Plus | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13200
-#EXTINF:-1 tvg-ID="HBO Plus | FHD" tvg-name="HBO Plus | FHD" tvg-logo="http://playhdtv.tk/logs/hbo-plus.jpg" group-title="[C] Filmes & Séries",HBO Plus | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13201
-#EXTINF:-1 tvg-ID="HBO Plus | FHD" tvg-name="HBO Plus | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/hbo-plus.jpg" group-title="[C] Legendado",HBO Plus | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13202
-#EXTINF:-1 tvg-ID="HBOSignature" tvg-name="HBO Signature" tvg-logo="http://playhdtv.tk/logs/hbo-signature.jpg" group-title="[C] Filmes & Séries",HBO Signature
-http://painel.tvdigitalsbl.net:80/vo/vo/13203
-#EXTINF:-1 tvg-ID="HBO Signature | HD" tvg-name="HBO Signature | HD" tvg-logo="http://playhdtv.tk/logs/hbo-signature.jpg" group-title="[C] Filmes & Séries",HBO Signature | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13204
-#EXTINF:-1 tvg-ID="HBO Signature | HD" tvg-name="HBO Signature | HD - LEG" tvg-logo="http://playhdtv.tk/logs/hbo-signature.jpg" group-title="[C] Legendado",HBO Signature | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13205
-#EXTINF:-1 tvg-ID="HBO Signature | FHD" tvg-name="HBO Signature | FHD" tvg-logo="http://playhdtv.tk/logs/hbo-signature.jpg" group-title="[C] Filmes & Séries",HBO Signature | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13206
-#EXTINF:-1 tvg-ID="HBO Signature | FHD" tvg-name="HBO Signature | FHD - LEG" tvg-logo="http://playhdtv.tk/logs/hbo-signature.jpg" group-title="[C] Legendado",HBO Signature | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13207
-#EXTINF:-1 tvg-ID="" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/NN3ytF3/hboxtremeb.png" group-title="[C] Filmes & Séries",HBO XTREME
-http://painel.tvdigitalsbl.net:80/vo/vo/13208
-#EXTINF:-1 tvg-ID="HBO Xtreme | FHD" tvg-name="HBO XTREME | HD" tvg-logo="https://i.ibb.co/NN3ytF3/hboxtremeb.png" group-title="[C] Filmes & Séries",HBO XTREME | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13209
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtream | HD - LEG" tvg-logo="https://i.ibb.co/NN3ytF3/hboxtremeb.png" group-title="[C] Legendado",HBO Xtream | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13210
-#EXTINF:-1 tvg-ID="MAX Prime | HD" tvg-name="HBO XTREME | FHD" tvg-logo="http://playhdtv.tk/logs/max-prime.jpg" group-title="[C] Filmes & Séries",HBO XTREME | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13211
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Xtream | FHD - LEG" tvg-logo="https://i.ibb.co/NN3ytF3/hboxtremeb.png" group-title="[C] Legendado",HBO Xtream | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13212
-#EXTINF:-1 tvg-ID="HBO Pop | FHD" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/1Q2myP2/download.png" group-title="[C] Filmes & Séries",HBO POP
-http://painel.tvdigitalsbl.net:80/vo/vo/13213
-#EXTINF:-1 tvg-ID="HBO Pop | FHD" tvg-name="HBO POP | HD" tvg-logo="https://i.ibb.co/1Q2myP2/download.png" group-title="[C] Filmes & Séries",HBO POP | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13214
-#EXTINF:-1 tvg-ID="HBO Pop | FHD" tvg-name="HBO Pop | HD - LEG" tvg-logo="https://i.ibb.co/1Q2myP2/download.png" group-title="[C] Legendado",HBO Pop | HD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13215
-#EXTINF:-1 tvg-ID="HBO Pop | FHD" tvg-name="HBO POP | FHD" tvg-logo="https://i.ibb.co/1Q2myP2/download.png" group-title="[C] Filmes & Séries",HBO POP | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13216
-#EXTINF:-1 tvg-ID="HBO Pop | FHD" tvg-name="HBO Pop | FHD - LEG" tvg-logo="https://i.ibb.co/1Q2myP2/download.png" group-title="[C] Legendado",HBO Pop | FHD - LEG
-http://painel.tvdigitalsbl.net:80/vo/vo/13217
-#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM" tvg-logo="http://playhdtv.tk/logs/tcm.jpg" group-title="[C] Filmes & Séries",TCM
-http://painel.tvdigitalsbl.net:80/vo/vo/13218
-#EXTINF:-1 tvg-ID="Space" tvg-name="Space" tvg-logo="http://playhdtv.tk/logs/space--.jpg" group-title="[C] Filmes & Séries",Space
-http://painel.tvdigitalsbl.net:80/vo/vo/13219
-#EXTINF:-1 tvg-ID="Space | HD" tvg-name="Space | HD" tvg-logo="http://playhdtv.tk/logs/space--.jpg" group-title="[C] Filmes & Séries",Space | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13220
-#EXTINF:-1 tvg-ID="Space | FHD" tvg-name="Space | FHD" tvg-logo="http://playhdtv.tk/logs/space--.jpg" group-title="[C] Filmes & Séries",Space | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13221
-#EXTINF:-1 tvg-ID="FX" tvg-name="FX" tvg-logo="http://playhdtv.tk/logs/fx.jpg" group-title="[C] Filmes & Séries",FX
-http://painel.tvdigitalsbl.net:80/vo/vo/13222
-#EXTINF:-1 tvg-ID="FX | HD" tvg-name="FX | HD" tvg-logo="http://playhdtv.tk/logs/fx.jpg" group-title="[C] Filmes & Séries",FX | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13223
-#EXTINF:-1 tvg-ID="FX | FHD" tvg-name="FX | FHD" tvg-logo="http://playhdtv.tk/logs/fx.jpg" group-title="[C] Filmes & Séries",FX | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13224
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://playhdtv.tk/logs/amc.jpg" group-title="[C] Filmes & Séries",AMC
-http://painel.tvdigitalsbl.net:80/vo/vo/13225
-#EXTINF:-1 tvg-ID="AMC | HD" tvg-name="AMC | HD" tvg-logo="http://playhdtv.tk/logs/amc.jpg" group-title="[C] Filmes & Séries",AMC | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13226
-#EXTINF:-1 tvg-ID="AMC | FHD" tvg-name="AMC | FHD" tvg-logo="http://playhdtv.tk/logs/amc.jpg" group-title="[C] Filmes & Séries",AMC | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13227
-#EXTINF:-1 tvg-ID="Paramount | SD" tvg-name="Paramount" tvg-logo="http://playhdtv.tk/logs/paramount.jpg" group-title="[C] Filmes & Séries",Paramount
-http://painel.tvdigitalsbl.net:80/vo/vo/13228
-#EXTINF:-1 tvg-ID="Paramount | HD" tvg-name="Paramount | HD" tvg-logo="http://playhdtv.tk/logs/paramount.jpg" group-title="[C] Filmes & Séries",Paramount | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13229
-#EXTINF:-1 tvg-ID="Paramount | FHD" tvg-name="Paramount | FHD" tvg-logo="http://playhdtv.tk/logs/paramount.jpg" group-title="[C] Filmes & Séries",Paramount | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13230
-#EXTINF:-1 tvg-ID="FilmArts" tvg-name="Film & Arts" tvg-logo="" group-title="[C] Filmes & Séries",Film & Arts
-http://painel.tvdigitalsbl.net:80/vo/vo/13231
-#EXTINF:-1 tvg-ID="StudioUniversal" tvg-name="Studio Universal" tvg-logo="http://playhdtv.tk/logs/studio-universal.jpg" group-title="[C] Filmes & Séries",Studio Universal
-http://painel.tvdigitalsbl.net:80/vo/vo/13232
-#EXTINF:-1 tvg-ID="Studio Universal | HD" tvg-name="Studio Universal | HD" tvg-logo="http://playhdtv.tk/logs/studio-universal.jpg" group-title="[C] Filmes & Séries",Studio Universal | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13233
-#EXTINF:-1 tvg-ID="Studio Universal | FHD" tvg-name="Studio Universal | FHD" tvg-logo="http://playhdtv.tk/logs/studio-universal.jpg" group-title="[C] Filmes & Séries",Studio Universal | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13234
-#EXTINF:-1 tvg-ID="Syfy" tvg-name="SYFY" tvg-logo="http://playhdtv.tk/logs/syfy.jpg" group-title="[C] Filmes & Séries",SYFY
-http://painel.tvdigitalsbl.net:80/vo/vo/13235
-#EXTINF:-1 tvg-ID="SYFY | HD" tvg-name="SYFY | HD" tvg-logo="http://playhdtv.tk/logs/syfy.jpg" group-title="[C] Filmes & Séries",SYFY | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13236
-#EXTINF:-1 tvg-ID="SYFY | FHD" tvg-name="SYFY | FHD" tvg-logo="http://playhdtv.tk/logs/syfy.jpg" group-title="[C] Filmes & Séries",SYFY | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13237
-#EXTINF:-1 tvg-ID="ComedyCentral" tvg-name="Comedy Central" tvg-logo="http://playhdtv.tk/logs/comedycentral.jpg" group-title="[C] Variedades",Comedy Central
-http://painel.tvdigitalsbl.net:80/vo/vo/13238
-#EXTINF:-1 tvg-ID="Comedy Central | HD" tvg-name="Comedy Central | HD" tvg-logo="http://playhdtv.tk/logs/comedycentral.jpg" group-title="[C] Variedades",Comedy Central | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13239
-#EXTINF:-1 tvg-ID="Comedy Central | FHD" tvg-name="Comedy Central | FHD" tvg-logo="http://playhdtv.tk/logs/comedycentral.jpg" group-title="[C] Variedades",Comedy Central | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13240
-#EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="http://playhdtv.tk/logs/tbs.jpg" group-title="[C] Variedades",TBS
-http://painel.tvdigitalsbl.net:80/vo/vo/13241
-#EXTINF:-1 tvg-ID="TBS | HD" tvg-name="TBS | HD" tvg-logo="http://playhdtv.tk/logs/tbs.jpg" group-title="[C] Variedades",TBS | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13242
-#EXTINF:-1 tvg-ID="TBS | FHD" tvg-name="TBS | FHD" tvg-logo="http://playhdtv.tk/logs/tbs.jpg" group-title="[C] Variedades",TBS | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13243
-#EXTINF:-1 tvg-ID="PrimeBoxBrazil" tvg-name="Prime Box Brazil" tvg-logo="http://playhdtv.tk/logs/prime-box-brasil.jpg" group-title="[C] Variedades",Prime Box Brazil
-http://painel.tvdigitalsbl.net:80/vo/vo/13244
-#EXTINF:-1 tvg-ID="Curta!" tvg-name="Curta!" tvg-logo="https://i.ibb.co/7QKC33h/curtatv.jpg" group-title="[C] Variedades",Curta!
-http://painel.tvdigitalsbl.net:80/vo/vo/13245
-#EXTINF:-1 tvg-ID="AE" tvg-name="A&E" tvg-logo="http://playhdtv.tk/logs/A&E.jpg" group-title="[C] Variedades",A&E
-http://painel.tvdigitalsbl.net:80/vo/vo/13246
-#EXTINF:-1 tvg-ID="A&E | HD" tvg-name="A&E | HD" tvg-logo="http://playhdtv.tk/logs/A&E.jpg" group-title="[C] Variedades",A&E | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13247
-#EXTINF:-1 tvg-ID="A&E | FHD" tvg-name="A&E | FHD" tvg-logo="http://playhdtv.tk/logs/A&E.jpg" group-title="[C] Variedades",A&E | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13248
-#EXTINF:-1 tvg-ID="TruTV" tvg-name="TruTV" tvg-logo="http://playhdtv.tk/logs/trutv.jpg" group-title="[C] Filmes & Séries",TruTV
-http://painel.tvdigitalsbl.net:80/vo/vo/13249
-#EXTINF:-1 tvg-ID="" tvg-name="TruTV | HD" tvg-logo="http://playhdtv.tk/logs/trutv.jpg" group-title="[C] Filmes & Séries",TruTV | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13250
-#EXTINF:-1 tvg-ID="FishTV" tvg-name="Fish TV" tvg-logo="http://playhdtv.tk/logs/fishtv.png" group-title="[C] Esportes",Fish TV
-http://painel.tvdigitalsbl.net:80/vo/vo/13251
-#EXTINF:-1 tvg-ID="FishTV" tvg-name="Fish TV | FHD" tvg-logo="http://playhdtv.tk/logs/fishtv.png" group-title="[C] Esportes",Fish TV | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13252
-#EXTINF:-1 tvg-ID="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="http://playhdtv.tk/logs/animalplanet.jpg" group-title="[C] Documentários",Animal Planet
-http://painel.tvdigitalsbl.net:80/vo/vo/13253
-#EXTINF:-1 tvg-ID="Animal Planet | HD" tvg-name="Animal Planet | HD" tvg-logo="http://playhdtv.tk/logs/animalplanet.jpg" group-title="[C] Documentários",Animal Planet | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13254
-#EXTINF:-1 tvg-ID="Animal Planet | FHD" tvg-name="Animal Planet | FHD" tvg-logo="http://playhdtv.tk/logs/animalplanet.jpg" group-title="[C] Documentários",Animal Planet | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13255
-#EXTINF:-1 tvg-ID="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="http://playhdtv.tk/logs/discovery-channel.jpg" group-title="[C] Documentários",Discovery Channel
-http://painel.tvdigitalsbl.net:80/vo/vo/13256
-#EXTINF:-1 tvg-ID="Discovery Channel | HD" tvg-name="Discovery Channel | HD" tvg-logo="http://playhdtv.tk/logs/discovery-channel.jpg" group-title="[C] Documentários",Discovery Channel | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13257
-#EXTINF:-1 tvg-ID="Discovery Channel | FHD" tvg-name="Discovery Channel | FHD" tvg-logo="http://playhdtv.tk/logs/discovery-channel.jpg" group-title="[C] Documentários",Discovery Channel | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13258
-#EXTINF:-1 tvg-ID="NatGeo | SD" tvg-name="NatGeo" tvg-logo="http://playhdtv.tk/logs/natgeo.jpg" group-title="[C] Documentários",NatGeo
-http://painel.tvdigitalsbl.net:80/vo/vo/13259
-#EXTINF:-1 tvg-ID="NatGeo | FHD" tvg-name="NatGeo | FHD" tvg-logo="http://playhdtv.tk/logs/natgeo.jpg" group-title="[C] Documentários",NatGeo | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13260
-#EXTINF:-1 tvg-ID="NatGeo | HD" tvg-name="NatGeo | HD" tvg-logo="http://playhdtv.tk/logs/natgeo.jpg" group-title="[C] Documentários",NatGeo | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13261
-#EXTINF:-1 tvg-ID="NatGeoWild" tvg-name="NatGeo Wild" tvg-logo="http://playhdtv.tk/logs/natgeo-will.jpg" group-title="[C] Documentários",NatGeo Wild
-http://painel.tvdigitalsbl.net:80/vo/vo/13262
-#EXTINF:-1 tvg-ID="NatGeo Wild | HD" tvg-name="NatGeo Wild | HD" tvg-logo="http://playhdtv.tk/logs/natgeo-will.jpg" group-title="[C] Documentários",NatGeo Wild | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13263
-#EXTINF:-1 tvg-ID="NatGeo Wild | FHD" tvg-name="NatGeo Wild | FHD" tvg-logo="http://playhdtv.tk/logs/natgeo-will.jpg" group-title="[C] Documentários",NatGeo Wild | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13264
-#EXTINF:-1 tvg-ID="History channel | SD" tvg-name="History" tvg-logo="http://playhdtv.tk/logs/history.jpg" group-title="[C] Documentários",History
-http://painel.tvdigitalsbl.net:80/vo/vo/13265
-#EXTINF:-1 tvg-ID="History channel | HD" tvg-name="History | HD" tvg-logo="http://playhdtv.tk/logs/history.jpg" group-title="[C] Documentários",History | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13266
-#EXTINF:-1 tvg-ID="History channel | FHD" tvg-name="History | FHD" tvg-logo="http://playhdtv.tk/logs/history.jpg" group-title="[C] Documentários",History | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13267
-#EXTINF:-1 tvg-ID="H2 | SD" tvg-name="H2" tvg-logo="http://playhdtv.tk/logs/h2.jpg" group-title="[C] Documentários",H2
-http://painel.tvdigitalsbl.net:80/vo/vo/13268
-#EXTINF:-1 tvg-ID="H2 | HD" tvg-name="H2 | HD" tvg-logo="http://playhdtv.tk/logs/h2.jpg" group-title="[C] Documentários",H2 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13269
-#EXTINF:-1 tvg-ID="H2 | FHD" tvg-name="H2 | FHD" tvg-logo="http://playhdtv.tk/logs/h2.jpg" group-title="[C] Documentários",H2 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13270
-#EXTINF:-1 tvg-ID="Discovery World | HD" tvg-name="Discovery World | HD" tvg-logo="https://i.ibb.co/zN8n5y4/discovery-world-logo-C44-DE91333-seeklogo-com.png" group-title="[C] Documentários",Discovery World | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13271
-#EXTINF:-1 tvg-ID="Discovery World | FHD" tvg-name="Discovery World | FHD" tvg-logo="https://i.ibb.co/zN8n5y4/discovery-world-logo-C44-DE91333-seeklogo-com.png" group-title="[C] Documentários",Discovery World | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13272
-#EXTINF:-1 tvg-ID="Discovery Theater | HD" tvg-name="Discovery Theater | HD" tvg-logo="https://i.ibb.co/9ngYkTV/discovery-theater.jpg" group-title="[C] Documentários",Discovery Theater | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13273
-#EXTINF:-1 tvg-ID="Discovery Theater | HD" tvg-name="Discovery Theater | FHD" tvg-logo="https://i.ibb.co/9ngYkTV/discovery-theater.jpg" group-title="[C] Documentários",Discovery Theater | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13274
-#EXTINF:-1 tvg-ID="" tvg-name="HGTV | HD" tvg-logo="https://i.ibb.co/N9bzvZ3/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="[C] Documentários",HGTV | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13275
-#EXTINF:-1 tvg-ID="" tvg-name="HGTV | FHD" tvg-logo="https://i.ibb.co/N9bzvZ3/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="[C] Documentários",HGTV | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13276
-#EXTINF:-1 tvg-ID="Discovery Science | HD" tvg-name="Discovery Science | HD" tvg-logo="https://i.ibb.co/3mBwjzQ/Discovery-sciense.jpg" group-title="[C] Documentários",Discovery Science | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13277
-#EXTINF:-1 tvg-ID="Discovery Science | FHD" tvg-name="Discovery Science | FHD" tvg-logo="https://i.ibb.co/3mBwjzQ/Discovery-sciense.jpg" group-title="[C] Documentários",Discovery Science | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13278
-#EXTINF:-1 tvg-ID="DiscoveryTurbo" tvg-name="Discovery Turbo" tvg-logo="http://playhdtv.tk/logs/discovery-turbo.jpg" group-title="[C] Documentários",Discovery Turbo
-http://painel.tvdigitalsbl.net:80/vo/vo/13279
-#EXTINF:-1 tvg-ID="Discovery Turbo | HD" tvg-name="Discovery Turbo | HD" tvg-logo="http://playhdtv.tk/logs/discovery-turbo.jpg" group-title="[C] Documentários",Discovery Turbo | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13280
-#EXTINF:-1 tvg-ID="Discovery Turbo | FHD" tvg-name="Discovery Turbo | FHD" tvg-logo="http://playhdtv.tk/logs/discovery-turbo.jpg" group-title="[C] Documentários",Discovery Turbo | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13281
-#EXTINF:-1 tvg-ID="ID-InvestigacaoDiscovery" tvg-name="Investigacao Discovery" tvg-logo="https://i.ibb.co/qMFj4ym/Investiga-o-Discovery-1.png" group-title="[C] Documentários",Investigacao Discovery
-http://painel.tvdigitalsbl.net:80/vo/vo/13282
-#EXTINF:-1 tvg-ID="ID - Investigacao Discovery  | HD" tvg-name="Investigation Discovery | HD" tvg-logo="https://i.ibb.co/qMFj4ym/Investiga-o-Discovery-1.png" group-title="[C] Documentários",Investigation Discovery | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13283
-#EXTINF:-1 tvg-ID="ID - Investigacao Discovery | FHD" tvg-name="Investigation Discovery | FHD" tvg-logo="https://i.ibb.co/qMFj4ym/Investiga-o-Discovery-1.png" group-title="[C] Documentários",Investigation Discovery | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13284
-#EXTINF:-1 tvg-ID="Lifetime" tvg-name="Lifetime" tvg-logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="[C] Filmes & Séries",Lifetime
-http://painel.tvdigitalsbl.net:80/vo/vo/13285
-#EXTINF:-1 tvg-ID="Lifetime | HD" tvg-name="Lifetime | HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="[C] Filmes & Séries",Lifetime | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13286
-#EXTINF:-1 tvg-ID="Lifetime | FHD" tvg-name="Lifetime | FHD" tvg-logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="[C] Filmes & Séries",Lifetime | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13287
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://playhdtv.tk/logs/mtv.jpg" group-title="[C] Variedades",MTV
-http://painel.tvdigitalsbl.net:80/vo/vo/13288
-#EXTINF:-1 tvg-ID="MTV | HD" tvg-name="MTV | HD" tvg-logo="http://playhdtv.tk/logs/mtv.jpg" group-title="[C] Variedades",MTV | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13289
-#EXTINF:-1 tvg-ID="MTV | HD" tvg-name="MTV | FHD" tvg-logo="http://playhdtv.tk/logs/mtv.jpg" group-title="[C] Variedades",MTV | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13290
-#EXTINF:-1 tvg-ID="PlayTV" tvg-name="PlayTV" tvg-logo="https://i.ibb.co/q0bKL1h/playtv.jpg" group-title="[C] Músicas",PlayTV
-http://painel.tvdigitalsbl.net:80/vo/vo/13291
-#EXTINF:-1 tvg-ID="VH1Megahits" tvg-name="VH1" tvg-logo="http://playhdtv.tk/logs/vh1.jpg" group-title="[C] Músicas",VH1
-http://painel.tvdigitalsbl.net:80/vo/vo/13292
-#EXTINF:-1 tvg-ID="VH1 MegaHits | HD" tvg-name="VH1 | HD" tvg-logo="http://playhdtv.tk/logs/vh1.jpg" group-title="[C] Músicas",VH1 | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13293
-#EXTINF:-1 tvg-ID="VH1 MegaHits | FHD" tvg-name="VH1 | FHD" tvg-logo="http://playhdtv.tk/logs/vh1.jpg" group-title="[C] Músicas",VH1 | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13294
-#EXTINF:-1 tvg-ID="MusicBoxBrazil" tvg-name="Music Box Brazil" tvg-logo="http://playhdtv.tk/logs/music-box-brasil.jpg" group-title="[C] Músicas",Music Box Brazil
-http://painel.tvdigitalsbl.net:80/vo/vo/13295
-#EXTINF:-1 tvg-ID="Prime Box Brazil | SD" tvg-name="Music Box Brazil | HD" tvg-logo="http://playhdtv.tk/logs/music-box-brasil.jpg" group-title="[C] Músicas",Music Box Brazil | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13296
-#EXTINF:-1 tvg-ID="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="http://playhdtv.tk/logs/cartoonnetwork.jpg" group-title="[C] Infantis",Cartoon Network
-http://painel.tvdigitalsbl.net:80/vo/vo/13297
-#EXTINF:-1 tvg-ID="Cartoon Network | HD" tvg-name="Cartoon Network | HD" tvg-logo="http://playhdtv.tk/logs/cartoonnetwork.jpg" group-title="[C] Infantis",Cartoon Network | HD
-http://painel.tvdigitalsbl.net:80/vo/vo/13298
-#EXTINF:-1 tvg-ID="Cartoon Network | FHD" tvg-name="Cartoon Network | FHD" tvg-logo="http://playhdtv.tk/logs/cartoonnetwork.jpg" group-title="[C] Infantis",Cartoon Network | FHD
-http://painel.tvdigitalsbl.net:80/vo/vo/13299
-#EXTINF:-1 tvg-ID="Disney" tvg-name="Disney Channel" tvg-logo="http://playhdtv.tk/logs/disney-channel.jpg" group-title="[C] Infantis",Disney Channel
-http://painel.tvdigitalsbl.net:80/vo/vo/13300
+#EXTM3U refresh="1400"
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:698
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:15
+
+##CANAIS ABERTOS
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
+http://new-pro.tv:8080/74919yhat/47818ywtxwr/122246?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RN
+https://list.iptvcat.com/my_list/s/22b485ee61d46dc26cec827105b7d25b.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais abertos", SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT²
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w453733011.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT³
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record²
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais abertos",Band
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31055?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Canais abertos",Band²
+http://tv.factoryiptv.com:80/Denis111/Denis111/36990?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="Canais abertos", Futura
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Canais abertos", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Canais abertos", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/558_TV_Machete.jpg" group-title="Canais abertos", TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/200px-TV_Gazeta.svg.png" group-title="Canais abertos", TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="http://1.bp.blogspot.com/-h9_CkH7QJXI/VEAb0dcWxWI/AAAAAAAAAuM/ylmZcAxl9lg/s320/novotempo.jpg" group-title="Canais abertos", TV Novo Tempo
+http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+
+##ESPORTES
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2019/02/26/5c75fc0e4a01e.jpeg" group-title="Esportes", Fox Sports
+https://m3u9.ml/b/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=e-sceTQmirfiNpVBONzTGw&3U1G7qaTxrPbalZnEx=1635566923
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bandsports2006.png" group-title="Esportes", BandSports
+https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+##PREMIERE
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES²
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28863
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES³
+http://tv.factoryiptv.com:80/Denis111/Denis111/37016?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 2
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31529?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 2²
+http://tv.factoryiptv.com:80/Denis111/Denis111/36952?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 3
+https://list.iptvcat.com/my_list/s/c151dbeb857c973a9a176351ab46cc41.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 3²
+https://list.iptvcat.com/my_list/s/868fb4a00a345f25c47531deef368578.m3u8
+
+##INFANTIL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/344?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang²
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31478?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang³
+http://new-pro.tv:8080/74919yhat/47818ywtxwr/32866?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
+http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network²
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/348?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids²
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Infantil",Anime Pluto TV 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="animetv.br" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="Infantil",Anime TV 
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:0 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="Infantil",As Aventuras de Jackie Chan 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://imgur.com/bHhxhRb.png" group-title="Infantil",As Pistas de Blue 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil",Babyfirst 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/WklXZlV.png" tvg-shift="0" group-title="Infantil",Clubinho Fun
+http://45.165.178.82:8000/play/a011/index.m3u8
+
+#EXTINF:0 tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Infantil",Desenhos antigos 1
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:0 tvg-name="Os Jetsons" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Infantil",Os Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:0 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Infantil",Junior 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://imgur.com/g505N5r.png" group-title="Infantil",Kids 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-name="Kuriakos Infantis" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Infantil",Kuriakos Infantis | Portugal
+http://c2.manasat.com:1935/kInfantis/kInfantis3/master.m3u8
+
+#EXTINF:0 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Infantil",Loading TV
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://imgur.com/046zDW4.png" group-title="Infantil",Naruto 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://imgur.com/z2Fwd4q.png" group-title="Infantil",Nick Clássico 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Infantil",Nick Jr. Club 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Infantil",Nick Teen 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Infantil",O Reino Infantil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Infantil",Retrô Cartoon 
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:0 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Infantil",Tokusato 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Infantil",Turma da Mônica 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+##FILMES E SERIES
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX
+http://new-pro.tv:8080/74919yhat/47818ywtxwr/32901?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX²
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/244?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX³
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37648?checkedby:iptvcat.com
+
+##HBO
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="HBO",HBO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.com
+
+##TELECINE
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/200px-Telecine_Action_2.png" group-title="Telecine",Telecine Action
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+##NOTÍCIAS
+#EXTINF:0 tvg-logo="https://imgur.com/KmJ7Qsh.jpg" tvg-shift="0" group-title="Notícias",Band News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+
+#EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News²" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News²
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Notícias", Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="Notícias", CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:0 tvg-id="Cbn.br" tvg-name="CBN RJ" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:0 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:0 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Notícias",CNN Brasil
+https://5f1ce9c7dc62b.streamlock.net/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:0 tvg-id="EuronewsPT.nws" tvg-name="Euronews Portugal" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Notícias",Euronews 1 | Portugal
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="EuronewsPT.nws" tvg-name="Euronews Portugal" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Notícias",Euronews 2 | Portugal
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+##VARIEDADES
+#EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31599?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central²
+http://tv.factoryiptv.com:80/Denis111/Denis111/36925?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central³
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/98?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="Variedades", NGT
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Variedades", CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="Variedades",Pegadinhas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Variedades",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="Variedades",Canal Rural
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/canaldoboi.png" group-title="Variedades",Canal do Boi
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="Variedades", TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Variedades",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Variedades",Agro Canal
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/HG8eFs1.jpg" group-title="Variedades",TV Cidade de Petrópolis
+https://video01.kshost.com.br/inside2133/inside2133/playlist.m3u8?t=1635454888
+
+#CÂMERAS
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Copacabana
+https://youtu.be/kyZBy84Ct_E
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Aeroporto Santos Dumont (SBRJ/SDU)
+https://youtu.be/vI1e7U5dGH0
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Kansas City Zoo
+https://youtu.be/JJqXeRFsLjE
+
+##RADIOS
+#EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
+http://centova6.ciclanohost.com.br:9256//;stream.mp3
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://imgur.com/p22Yewv.png",Catedral do Rock
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Transamerica FM Estúdio
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist_w968253868.m3u8
+
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",FM O Dia 100 5 FM
+https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",HOT FM 107 SP
+http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
+
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+
+#EXTINF:0 group-title="Rádios" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",RADIO GOSPEL FM
+http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
