@@ -9,10 +9,10 @@
 https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
-http://new-pro.tv:8080/74919yhat/47818ywtxwr/122246?checkedby:iptvcat.com
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153223
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RN
-https://list.iptvcat.com/my_list/s/22b485ee61d46dc26cec827105b7d25b.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO SP
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153224
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais abertos", SBT
 https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
@@ -53,9 +53,11 @@ https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="http://1.bp.blogspot.com/-h9_CkH7QJXI/VEAb0dcWxWI/AAAAAAAAAuM/ylmZcAxl9lg/s320/novotempo.jpg" group-title="Canais abertos", TV Novo Tempo
 http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
 
-##ESPORTES
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2019/02/26/5c75fc0e4a01e.jpeg" group-title="Esportes", Fox Sports
-https://m3u9.ml/b/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=e-sceTQmirfiNpVBONzTGw&3U1G7qaTxrPbalZnEx=1635566923
+#########################################
+##ESPORTES##
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/11/divulg-563x338.png" group-title="Esportes", Sportv
+http://21eua10alpha.cf/HD_SOKASJDH_1/video.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bandsports2006.png" group-title="Esportes", BandSports
 https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
@@ -75,7 +77,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-##PREMIERE
+#########################################
+##PREMIERE##
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
 https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=oMM2n5Ft1qOQi1ZruDD00A&3U1G7qaTxrPbalZnEx=1635561459
 
@@ -97,7 +101,8 @@ https://list.iptvcat.com/my_list/s/c151dbeb857c973a9a176351ab46cc41.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 3²
 https://list.iptvcat.com/my_list/s/868fb4a00a345f25c47531deef368578.m3u8
 
-##INFANTIL
+#########################################
+##INFANTIL##
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang
 https://m3u9.ml/b/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=xrfQartw4LKrJbiR6hFv3Q&3U1G7qaTxrPbalZnEx=1635563854
 
@@ -179,23 +184,30 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab2100080
 #EXTINF:0 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Infantil",Turma da Mônica 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 
-##FILMES E SERIES
+#########################################
+##FILMES E SERIES##
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX
 http://new-pro.tv:8080/74919yhat/47818ywtxwr/32901?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX²
-http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/244?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX³
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37648?checkedby:iptvcat.com
 
-##HBO
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/WB_2020_logo.png" tvg-shift="0" group-title="Notícias",Warner
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
+
+#########################################
+##HBO##
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="HBO",HBO
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.com
 
-##TELECINE
+#########################################
+##TELECINE##
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/200px-Telecine_Action_2.png" group-title="Telecine",Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
-##NOTÍCIAS
+#########################################
+##NOTÍCIAS##
+
 #EXTINF:0 tvg-logo="https://imgur.com/KmJ7Qsh.jpg" tvg-shift="0" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 
@@ -203,7 +215,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:0 tvg-id="Recordnews.br" tvg-name="Record News²" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News²
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Notícias", Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
@@ -272,16 +284,48 @@ https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433
 #EXTINF:0 tvg-logo="https://i.imgur.com/HG8eFs1.jpg" group-title="Variedades",TV Cidade de Petrópolis
 https://video01.kshost.com.br/inside2133/inside2133/playlist.m3u8?t=1635454888
 
-#CÂMERAS
+#########################################
+##Canais 24hrs###
+
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Filmes 24hrs
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w1044249302.m3u8
+
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Filmes 24hrs²
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
+
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Filmes 24hrs³
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1756910271.m3u8
+
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Big bang Theory 24hrs
+http://b5.vc:80/DouglasPrado/753728/48055.ts
+
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Os Simpsons 24hrs
+http://b5.vc:80/DouglasPrado/753728/47875.ts
+
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Todo Mundo Odeia o Cris 24hrs
+http://b5.vc:80/DouglasPrado/753728/48065.ts
+
+#########################################
+##CÂMERAS##
+
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 
 
-#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Copacabana
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Copacabana - RJ
 https://youtu.be/kyZBy84Ct_E
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Rua da Consolação - SP
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_408.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Aeroporto Santos Dumont (SBRJ/SDU)
 https://youtu.be/vI1e7U5dGH0
+
+#EXTINF:0 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="Câmeras" , Aeroporto de Congonhas de São Paulo
+http://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", ISS - Estação Espacial
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Kansas City Zoo - Pinguins
 https://youtu.be/JJqXeRFsLjE
@@ -294,6 +338,9 @@ https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
 
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",San Diego Zoo - Urso Polar
 https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ninho das Águias
+https://d2pchsju5jshrk.cloudfront.net/aovivo/56b17550-1d27-11e7-86ad-b3286df8070e.stream/chunklist.m3u8
 
 ##RADIOS
 #EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
