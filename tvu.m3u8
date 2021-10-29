@@ -190,14 +190,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="Filmes e séries",FX
 http://new-pro.tv:8080/74919yhat/47818ywtxwr/32901?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/WB_2020_logo.png" tvg-shift="0" group-title="Notícias",Warner
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/WB_2020_logo.png" tvg-shift="0" group-title="Filmes e séries", Warner Bros
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
 
 #########################################
 ##HBO##
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png" group-title="HBO",HBO
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.seekpng.com/png/detail/223-2235457_hbo2-logo-hbo-2-logo-png.png" group-title="HBO",HBO 2
+https://m3u9.ml/b/hls1/hbo2.m3u8?mu3zAQc9HC3GbwJq=EIjQzZMj7PgH7pPD5dzWyw&3U1G7qaTxrPbalZnEx=1635564751
 
 #########################################
 ##TELECINE##
