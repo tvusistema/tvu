@@ -6,7 +6,7 @@
 
 ##CANAIS ABERTOS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
+https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
 http://new-pro.tv:8080/74919yhat/47818ywtxwr/122246?checkedby:iptvcat.com
@@ -77,10 +77,10 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 ##PREMIERE
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
+https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=oMM2n5Ft1qOQi1ZruDD00A&3U1G7qaTxrPbalZnEx=1635561459
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES²
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28863
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES³
 http://tv.factoryiptv.com:80/Denis111/Denis111/37016?checkedby:iptvcat.com
@@ -99,19 +99,19 @@ https://list.iptvcat.com/my_list/s/868fb4a00a345f25c47531deef368578.m3u8
 
 ##INFANTIL
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang
-http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/344?checkedby:iptvcat.com
+https://m3u9.ml/b/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=xrfQartw4LKrJbiR6hFv3Q&3U1G7qaTxrPbalZnEx=1635563854
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang²
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31478?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang³
-http://new-pro.tv:8080/74919yhat/47818ywtxwr/32866?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
-http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
+https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=Hyvo6PuDdUS0QtFRshWy9w&3U1G7qaTxrPbalZnEx=1635563855
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network³
+http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/348?checkedby:iptvcat.com
@@ -228,13 +228,16 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 ##VARIEDADES
 #EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31599?checkedby:iptvcat.com
+https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
 
 #EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central²
 http://tv.factoryiptv.com:80/Denis111/Denis111/36925?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central³
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/98?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-logo="https://png.pngitem.com/pimgs/s/195-1958579_hgtv-logo-hgtv-logo-png-transparent-png.png" group-title="Variedades", HGTV
+https://m3u9.ml/b/hls1/hgtv.m3u8?mu3zAQc9HC3GbwJq=eTiJ_NCZWti-qrtZDrVdlw&3U1G7qaTxrPbalZnEx=1635565300
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="Variedades", NGT
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
@@ -280,8 +283,17 @@ https://youtu.be/kyZBy84Ct_E
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Aeroporto Santos Dumont (SBRJ/SDU)
 https://youtu.be/vI1e7U5dGH0
 
-#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Kansas City Zoo
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png", Kansas City Zoo - Pinguins
 https://youtu.be/JJqXeRFsLjE
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",San Diego Zoo - Macacos
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",San Diego Zoo - Elefantes
+https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
+
+#EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",San Diego Zoo - Urso Polar
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
 
 ##RADIOS
 #EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
