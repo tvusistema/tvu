@@ -6,7 +6,6 @@
 
 ##CANAIS ABERTOS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
-https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153223
@@ -114,10 +113,10 @@ https://list.iptvcat.com/my_list/s/868fb4a00a345f25c47531deef368578.m3u8
 http://103.195.103.31:2086/streams/127_.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang²
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31478?checkedby:iptvcat.com
+https://m3u9.ml/b/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=XxCQAxMO5k_NabGzLz39cA&3U1G7qaTxrPbalZnEx=1635710620
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
-https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=Hyvo6PuDdUS0QtFRshWy9w&3U1G7qaTxrPbalZnEx=1635563855
+https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=YMVBfd_BCAjvN6sexS5VbQ&3U1G7qaTxrPbalZnEx=1635710536
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
@@ -185,14 +184,38 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a
 #########################################
 ##FILMES E SERIES##
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2021/01/AE.jpg" group-title="Filmes e séries",A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2021/01/AE.jpg" group-title="Filmes e séries",A&E²
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://br.web.img3.acsta.net/newsv7/14/12/16/14/56/153493.jpg" group-title="Filmes e séries",Cinemax
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.seekpng.com/png/detail/223-2235457_hbo2-logo-hbo-2-logo-png.png" group-title="Filmes e séries",HBO 2
+#EXTINF:0 tvg-country="BR" tvg-logo="https://tvlbox.com/wp-content/uploads/2021/07/download-57-1-236x133.png" group-title="Filmes e séries",HBO Plus
+https://m3u9.ml/b/hls1/hboplus.m3u8?mu3zAQc9HC3GbwJq=9owsgW3dOfNHHVfkfQ91GA&3U1G7qaTxrPbalZnEx=1635711343
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/200px-Sony_Channel_Logo.png" group-title="Filmes e séries",Sony
+https://m3u9.ml/b/hls1/sony.m3u8?mu3zAQc9HC3GbwJq=qtA3pm_1PXqJM8yEEw9ekA&3U1G7qaTxrPbalZnEx=1635711269
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/200px-Telecine_Action_2.png" group-title="Filmes e séries",Telecine Action
+#EXTINF:0 tvg-country="BR" tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalspace.jpg" group-title="Filmes e séries",Space
+https://m3u9.ml/b/hls1/space.m3u8?mu3zAQc9HC3GbwJq=rpCcOhXLnAwJWs0aV_kF7w&3U1G7qaTxrPbalZnEx=1635711340
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Premium-logo-2021.jpg" group-title="Filmes e séries",Star Premium
+https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1635690148&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=e2267e81a8dce33ae5fe1f22d39fcd3ea6e034c8566c2c206078da9b089d7030&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=01744f8c527a5fbf6c88eb69e7e8a1507a40ef842f279a352e44b49521f1739d&pbs=45c69f581a5f412cbc149685828648e4
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Life-logo-2021.jpg" group-title="Filmes e séries",Star Life
+https://m3u9.ml/b/hls1/foxlife.m3u8?mu3zAQc9HC3GbwJq=QvhDYmGWTfjUwwzpP0Y-dA&3U1G7qaTxrPbalZnEx=1635711582
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://tvlbox.com/wp-content/uploads/2021/07/download-64-1-225x133.png" group-title="Filmes e séries",Telecine Action
+https://m3u9.ml/b/hls1/telecineaction.m3u8?mu3zAQc9HC3GbwJq=CV6c3T7Ka6nX0FOaHzW2Pw&3U1G7qaTxrPbalZnEx=1635711531
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://3.bp.blogspot.com/-_Ye5R3Std74/W6q_PEuZHuI/AAAAAAAACDk/TPI3zUwbpwwdTYH2h15Ds-o_aWUZFCMXQCLcBGAs/s1600/TNT-Series-1.jpg" group-title="Filmes e séries",TNT Series
+https://m3u9.ml/b/hls1/tntseries.m3u8?mu3zAQc9HC3GbwJq=5PHs5RRNvgEkSmHV-kbeMg&3U1G7qaTxrPbalZnEx=1635711679
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://imagem.natelinha.uol.com.br/grande/universaltv_6d81f756149e407d824526d72176e0a61e1d3f41.jpeg" group-title="Filmes e séries",Universal
+https://m3u9.ml/b/hls1/universal.m3u8?mu3zAQc9HC3GbwJq=fZTbVG_kTt3PXAkrCEFkPw&3U1G7qaTxrPbalZnEx=1635711678
 
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/748/561/png-clipart-warner-tv-television-channel-warner-bros-world-abu-dhabi-television-show-serie-tv-television-emblem.png" tvg-shift="0" group-title="Filmes e séries", Warner Bros
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
@@ -289,6 +312,8 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
 #EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Filmes 24hrs²
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1756910271.m3u8
+
+
 
 #EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Big bang Theory 24hrs
 http://b5.vc:80/DouglasPrado/753728/48055.ts
