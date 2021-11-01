@@ -6,42 +6,51 @@
 
 #########################################
 ##CANAIS ABERTOS
-
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
-https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/30437
+##https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153223
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO SP
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153224
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14514
+#http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153224
 
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais abertos", SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO Minas
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/24552
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT²
-https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w453733011.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO Nordeste
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/24551
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT³
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u
+#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais abertos", SBT RJ
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148295
+#https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT SP
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148409
+#https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w453733011.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT Nordeste
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/281737
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record²
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais abertos",Band
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/281738
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais abertos",Band²
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31055?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Canais abertos",Band²
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Canais abertos",Band³
 http://tv.factoryiptv.com:80/Denis111/Denis111/36990?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="Canais abertos", Futura
-https://tv.unisc.br/hls/test.m3u8
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Canais abertos", Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/7342
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Canais abertos", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
@@ -196,41 +205,111 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m
 #EXTINF:0 tvg-country="BR" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2021/01/AE.jpg" group-title="Filmes e séries",A&E²
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://br.web.img3.acsta.net/newsv7/14/12/16/14/56/153493.jpg" group-title="Filmes e séries",Cinemax
-https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
+#EXTINF:0 tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2021/01/AE.jpg" group-title="Filmes e séries",A&E³
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8816
+2
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",AMC
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8845
 
-#EXTINF:0 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="Filmes e séries",HBO
-http://xcui.vitvabc.xyz:8880/287994003161/287994003161/31465
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",AXN
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8852
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://tvlbox.com/wp-content/uploads/2021/07/download-57-1-236x133.png" group-title="Filmes e séries",HBO Plus
-https://m3u9.ml/b/hls1/hboplus.m3u8?mu3zAQc9HC3GbwJq=9owsgW3dOfNHHVfkfQ91GA&3U1G7qaTxrPbalZnEx=1635711343
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Cinemax
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8834
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/200px-Sony_Channel_Logo.png" group-title="Filmes e séries",Sony
-https://m3u9.ml/b/hls1/sony.m3u8?mu3zAQc9HC3GbwJq=qtA3pm_1PXqJM8yEEw9ekA&3U1G7qaTxrPbalZnEx=1635711269
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO 2
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8821
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalspace.jpg" group-title="Filmes e séries",Space
-https://m3u9.ml/b/hls1/space.m3u8?mu3zAQc9HC3GbwJq=rpCcOhXLnAwJWs0aV_kF7w&3U1G7qaTxrPbalZnEx=1635711340
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Family
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8839
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Premium-logo-2021.jpg" group-title="Filmes e séries",Star Premium
-https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1635690148&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=e2267e81a8dce33ae5fe1f22d39fcd3ea6e034c8566c2c206078da9b089d7030&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=01744f8c527a5fbf6c88eb69e7e8a1507a40ef842f279a352e44b49521f1739d&pbs=45c69f581a5f412cbc149685828648e4
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO FHD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8822
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Life-logo-2021.jpg" group-title="Filmes e séries",Star Life
-https://m3u9.ml/b/hls1/foxlife.m3u8?mu3zAQc9HC3GbwJq=QvhDYmGWTfjUwwzpP0Y-dA&3U1G7qaTxrPbalZnEx=1635711582
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Mundi
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8837
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://tvlbox.com/wp-content/uploads/2021/07/download-64-1-225x133.png" group-title="Filmes e séries",Telecine Premium
-https://m3u9.ml/b/hls1/telecinepremium.m3u8?mu3zAQc9HC3GbwJq=84WXoOKUPZfTQsL3h-VxGg&3U1G7qaTxrPbalZnEx=1635823887
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Pop
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/173434
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://3.bp.blogspot.com/-_Ye5R3Std74/W6q_PEuZHuI/AAAAAAAACDk/TPI3zUwbpwwdTYH2h15Ds-o_aWUZFCMXQCLcBGAs/s1600/TNT-Series-1.jpg" group-title="Filmes e séries",TNT Series
-https://m3u9.ml/b/hls1/tntseries.m3u8?mu3zAQc9HC3GbwJq=5PHs5RRNvgEkSmHV-kbeMg&3U1G7qaTxrPbalZnEx=1635711679
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Signature
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8836
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://imagem.natelinha.uol.com.br/grande/universaltv_6d81f756149e407d824526d72176e0a61e1d3f41.jpeg" group-title="Filmes e séries",Universal
-https://m3u9.ml/b/hls1/universal.m3u8?mu3zAQc9HC3GbwJq=fZTbVG_kTt3PXAkrCEFkPw&3U1G7qaTxrPbalZnEx=1635711678
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Xtreme
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8824
 
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/748/561/png-clipart-warner-tv-television-channel-warner-bros-world-abu-dhabi-television-show-serie-tv-television-emblem.png" tvg-shift="0" group-title="Filmes e séries", Warner Bros
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO+
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8823
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Megapix
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8842
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Prime Box Brasil
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/198237
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Sony Channel
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8882
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Channel
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278658
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Hits 2
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278661
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Hits
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278660
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Life
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278659
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Studio Universal
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/280996
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",SYFY
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14485
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TBS
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14649
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TCM
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8853
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Action
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/193685
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Cult
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/197080
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Fun
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8831
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Pipoca
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8830
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Premium
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8829
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Touch
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8828
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TLC
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/7370
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TNT
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8840
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TNT Series
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8827
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Universal TV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/7422
+
+#EXTINF:0 tvg-logo="https://www.offremedia.com/sites/default/files/vignette/article/nl1660-logo-wbtv.png" group-title="Filmes e séries",Warner TV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8825
+
+#EXTINF:0 tvg-logo="https://www.offremedia.com/sites/default/files/vignette/article/nl1660-logo-wbtv.png" tvg-shift="0" group-title="Filmes e séries", Warner TV²
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
 
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/748/561/png-clipart-warner-tv-television-channel-warner-bros-world-abu-dhabi-television-show-serie-tv-television-emblem.png" tvg-shift="0" group-title="Filmes e séries", Warner Bros²
-http://103.195.103.31:2086/streams/179_.m3u8
 
 #########################################
 ##NOTÍCIAS##
@@ -281,10 +360,10 @@ https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m
 http://tv.factoryiptv.com:80/Denis111/Denis111/36925?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://png.pngitem.com/pimgs/s/195-1958579_hgtv-logo-hgtv-logo-png-transparent-png.png" group-title="Variedades", HGTV
-https://m3u9.ml/b/hls1/hgtv.m3u8?mu3zAQc9HC3GbwJq=eTiJ_NCZWti-qrtZDrVdlw&3U1G7qaTxrPbalZnEx=1635565300
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/147274
 
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="Variedades", NGT
-https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+#EXTINF:0 tvg-logo="https://png.pngitem.com/pimgs/s/195-1958579_hgtv-logo-hgtv-logo-png-transparent-png.png" group-title="Variedades", HGTV²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/275122
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Variedades", CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
@@ -292,29 +371,11 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="Variedades",Pegadinhas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Variedades",ISTV
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="Variedades",Canal Rural
-https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/canaldoboi.png" group-title="Variedades",Canal do Boi
-https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
-
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="Variedades", TV Verdes Campos SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Variedades",AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Variedades",Agro Canal
-https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/HG8eFs1.jpg" group-title="Variedades",TV Cidade de Petrópolis
-https://video01.kshost.com.br/inside2133/inside2133/playlist.m3u8?t=1635454888
 
 #########################################
 ##Canais 24hrs###
@@ -392,7 +453,6 @@ https://d2pchsju5jshrk.cloudfront.net/aovivo/56b17550-1d27-11e7-86ad-b3286df8070
 
 #########################################
 ##MÚSICAS
-
 
 #EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
