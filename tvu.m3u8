@@ -102,11 +102,8 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/8785
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 1²
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-#title="Premiere",Premiere FC 1³
-#http://tv.factoryiptv.com:80/Denis111/Denis111/37016?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-#title="Premiere",PREMIERE 2
-#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 1³
+http://tv.factoryiptv.com:80/Denis111/Denis111/37016?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 2
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/8786
@@ -607,7 +604,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a
 #EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Porta_dos_Fundos.jpeg/170px-Porta_dos_Fundos.jpeg",Porta dos Fundos 24hrs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:0 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Canais 24hrs",Turma da Mônica 24hrs
+#EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://imgur.com/kJHRcfo.png",Turma da Mônica 24hrs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 
 #########################################
