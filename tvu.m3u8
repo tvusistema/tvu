@@ -8,6 +8,7 @@
 ##CANAIS ABERTOS
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
+https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153223
@@ -127,7 +128,7 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
 http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids
-http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/348?checkedby:iptvcat.com
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28855
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids²
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:iptvcat.com
@@ -264,6 +265,9 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #########################################
 ##VARIEDADES##
 
+#EXTINF:0 tvg-logo="" group-title="Variedades", Arte 1
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+
 #EXTINF:0 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Variedades", Comedy Central
 https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
 
@@ -385,7 +389,10 @@ https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
 #EXTINF:0 group-title="Câmeras" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ninho das Águias
 https://d2pchsju5jshrk.cloudfront.net/aovivo/56b17550-1d27-11e7-86ad-b3286df8070e.stream/chunklist.m3u8
 
-##RADIOS
+#########################################
+##MÚSICAS
+
+
 #EXTINF:0 group-title="Rádios" tvg-logo="https://i.imgur.com/AbjErut.jpg",Jovem Pan
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
 
