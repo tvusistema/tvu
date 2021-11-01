@@ -217,14 +217,14 @@ http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8852
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Cinemax
 http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8834
 
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8822
+
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO 2
 http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8821
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Family
 http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8839
-
-#EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO FHD
-http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8822
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Mundi
 http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8837
