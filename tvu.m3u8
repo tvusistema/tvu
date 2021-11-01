@@ -96,57 +96,195 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #########################################
 ##PREMIERE##
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 1
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8785
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES
-https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=oMM2n5Ft1qOQi1ZruDD00A&3U1G7qaTxrPbalZnEx=1635561459
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES²
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 1²
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE CLUBES³
-http://tv.factoryiptv.com:80/Denis111/Denis111/37016?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-#title="Premiere",Premiere FC 1³
+#http://tv.factoryiptv.com:80/Denis111/Denis111/37016?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 2
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-#title="Premiere",PREMIERE 2
+#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31529?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 2²
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 2
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8786
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 2²
 http://tv.factoryiptv.com:80/Denis111/Denis111/36952?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 3
-https://list.iptvcat.com/my_list/s/c151dbeb857c973a9a176351ab46cc41.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 3
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8787
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",PREMIERE 3²
-https://list.iptvcat.com/my_list/s/868fb4a00a345f25c47531deef368578.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 4
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8788
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 5
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8790
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 6
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8791
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 7
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8798
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 2³
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8786
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 3²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8787
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 4²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8788
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 5²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8790
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 6²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8791
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Premiere",Premiere FC 7²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8798
 
 #########################################
 ##INFANTIL##
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang
-http://103.195.103.31:2086/streams/127_.m3u8
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang²
-https://m3u9.ml/b/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=XxCQAxMO5k_NabGzLz39cA&3U1G7qaTxrPbalZnEx=1635710620
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
-https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=YMVBfd_BCAjvN6sexS5VbQ&3U1G7qaTxrPbalZnEx=1635710536
-
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network³
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network³
 http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28855
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids²
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-#Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids³
+#http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://imagem.natelinha.uol.com.br/grande/nickelodeon.jpg" group-title="Infantil",Nickelodeon
+#EXTINF:0 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://imagem.natelinha.uol.com.br/grande/nickelodeon.jpg" group-title="Infantil",Nickelodeon²
 https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
 
-#EXTINF:0 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Infantil",Anime Pluto TV 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="Infantil",Baby TV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8922
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Boomerang
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8915
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Cartoon Network
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8913
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Cartoon Network³
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/273292
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Discovery Kids³
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8893
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Discovery Kids
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/273726
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney Junior
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8916
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney Junior
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/274548
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney XD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8917
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney XD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/274549
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Gloob
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14605
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Gloobinho
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148406
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",NAT GEO Kids
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8914
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",NAT GEO Kids
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/274114
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Nick Junior
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8919
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Nick Junior
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/282955
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Nickelodeon
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/16391
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Tooncast
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8927
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",TV Ra Tim Bum
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148405
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Zoomoo
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/281247
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",ZooMoo Kids
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14661
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Baby TV²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8922
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Boomerang²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8915
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Cartoon Network⁴
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/273292
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Discovery Kids⁴
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8893
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney Junior²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8916
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney Junior³
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/274548
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney XD²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8917
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Disney XD³
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/274549
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Gloob²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/14605
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Gloobinho²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/148406
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",NAT GEO Kids²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8914
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",NAT GEO Kids³
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/274114
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Nick Junior²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8919
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Nick Junior³
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/282955
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Nickelodeon²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/16391
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Tooncast²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8927
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",TV Ra Tim Bum²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/148405
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",Zoomoo²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/281247
+
+#EXTINF:0 tvg-logo="" group-title="Infantil",ZooMoo Kids²
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/14661
+
+#########NÃO POPULARES#######
 
 #EXTINF:0 tvg-id="animetv.br" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="Infantil",Anime TV 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -154,47 +292,38 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:0  tvg-logo="https://tvcanais.online/wp-content/uploads/2021/02/download-13.png" tvg-shift="0" group-title="Infantil",TV Tokio
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w369013158.m3u8
 
-#EXTINF:0 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil",Babyfirst 
+#EXTINF:0 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil",Babyfirst PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
-
-#EXTINF:0  tvg-logo="https://i.imgur.com/WklXZlV.png" tvg-shift="0" group-title="Infantil",Clubinho Fun
-http://45.165.178.82:8000/play/a011/index.m3u8
 
 #EXTINF:0 tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Infantil",Desenhos antigos 1
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
-#EXTINF:0 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Infantil",Junior 
+#EXTINF:0 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Infantil",Junior PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://imgur.com/g505N5r.png" group-title="Infantil",Kids 
+#EXTINF:0 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://imgur.com/g505N5r.png" group-title="Infantil",Kids PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
-
-#EXTINF:0 tvg-name="Kuriakos Infantis" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Infantil",Kuriakos Infantis | Portugal
-http://c2.manasat.com:1935/kInfantis/kInfantis3/master.m3u8
 
 #EXTINF:0 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Infantil",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://imgur.com/z2Fwd4q.png" group-title="Infantil",Nick Clássico 
+#EXTINF:0 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://imgur.com/z2Fwd4q.png" group-title="Infantil",Nick Clássico PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Infantil",Nick Jr. Club 
+#EXTINF:0 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Infantil",Nick Jr. Club PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Infantil",Nick Teen 
+#EXTINF:0 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Infantil",Nick Teen PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Infantil",O Reino Infantil 
+#EXTINF:0 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Infantil",O Reino  Infantil PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
 #EXTINF:0 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Infantil",Retrô Cartoon 
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:0 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Infantil",Tokusato 
+#EXTINF:0 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Infantil",Tokusato PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:0 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Infantil",Turma da Mônica 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 
 #########################################
 ##FILMES E SERIES##
@@ -310,6 +439,70 @@ http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8825
 #EXTINF:0 tvg-logo="https://www.offremedia.com/sites/default/files/vignette/article/nl1660-logo-wbtv.png" tvg-shift="0" group-title="Filmes e séries", Warner TV²
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
 
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8842
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Prime Box Brasil²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/198237
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Sony Channel²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8882
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Channel²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278658
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Hits 2²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278661
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Hits²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278660
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Life²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278659
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Studio Universal²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/280996
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",SYFY²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14485
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TBS²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/14649
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TCM²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8853
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Action²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/193685
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Cult²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/197080
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Fun²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8831
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Pipoca²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8830
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Premium²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8829
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Touch²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8828
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TLC²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/7370
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TNT²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8840
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",TNT Series²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8827
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e séries",Universal TV²
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/7422
+
+#EXTINF:0 tvg-logo="https://www.offremedia.com/sites/default/files/vignette/article/nl1660-logo-wbtv.png" group-title="Filmes e séries",Warner TV³
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8825
 
 #########################################
 ##NOTÍCIAS##
@@ -413,6 +606,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a
 
 #EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Porta_dos_Fundos.jpeg/170px-Porta_dos_Fundos.jpeg",Porta dos Fundos 24hrs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:0 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Canais 24hrs",Turma da Mônica 24hrs
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 
 #########################################
 ##CÂMERAS##
