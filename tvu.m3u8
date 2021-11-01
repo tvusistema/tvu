@@ -199,6 +199,9 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m
 #EXTINF:0 tvg-country="BR" tvg-logo="https://br.web.img3.acsta.net/newsv7/14/12/16/14/56/153493.jpg" group-title="Filmes e séries",Cinemax
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
 
+#EXTINF:0 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="Filmes e séries",HBO
+http://xcui.vitvabc.xyz:8880/287994003161/287994003161/31465
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://tvlbox.com/wp-content/uploads/2021/07/download-57-1-236x133.png" group-title="Filmes e séries",HBO Plus
 https://m3u9.ml/b/hls1/hboplus.m3u8?mu3zAQc9HC3GbwJq=9owsgW3dOfNHHVfkfQ91GA&3U1G7qaTxrPbalZnEx=1635711343
 
@@ -321,8 +324,6 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
 #EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Filmes 24hrs²
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1756910271.m3u8
-
-
 
 #EXTINF:0 group-title="Canais 24hrs" tvg-logo="https://jornalasemanapp.com.br/images/noticias/13362/5b97c347b7ef236f41125ad81f290828.jpg",Big bang Theory 24hrs
 http://b5.vc:80/DouglasPrado/753728/48055.ts
