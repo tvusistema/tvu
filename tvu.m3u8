@@ -7,32 +7,32 @@
 #########################################
 ##CANAIS ABERTOS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/30437
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/30437
 ##https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO RJ²
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153223
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO SP
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/14514
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/14514
 #http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/153224
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO Minas
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/24552
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/24552
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais abertos",GLOBO Nordeste
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/24551
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/24551
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais abertos", SBT RJ
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148295
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/148295
 #https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT SP
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148409
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/148409
 #https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w453733011.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="Canais abertos", SBT Nordeste
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/281737
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/281737
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/180px-Logotipo_da_Record.png" group-title="Canais abertos", Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
@@ -41,7 +41,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais abertos",Band
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/281738
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/281738
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais abertos",Band²
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31055?checkedby:iptvcat.com
@@ -50,7 +50,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31055?checkedby:iptvcat.c
 http://tv.factoryiptv.com:80/Denis111/Denis111/36990?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="Canais abertos", Futura
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/7342
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/7342
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Canais abertos", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
@@ -206,106 +206,106 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
 
 #EXTINF:0 tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2021/01/AE.jpg" group-title="Filmes e séries",A&E³
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8816
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8816
 2
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",AMC
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8845
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8845
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",AXN
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8852
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8852
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Cinemax
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8834
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8834
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO 2
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8821
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8821
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Family
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8839
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8839
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8822
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8822
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Mundi
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8837
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8837
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Pop
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/173434
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/173434
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Signature
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8836
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8836
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO Xtreme
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8824
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8824
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",HBO+
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8823
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8823
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Megapix
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8842
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8842
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Prime Box Brasil
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/198237
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/198237
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Sony Channel
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8882
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8882
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Channel
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278658
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/278658
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Hits 2
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278661
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/278661
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Hits
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278660
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/278660
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Star Life
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278659
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/278659
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Studio Universal
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/280996
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/280996
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",SYFY
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/14485
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/14485
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",TBS
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/14649
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/14649
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",TCM
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8853
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8853
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Action
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/193685
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/193685
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Cult
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/197080
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/197080
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Fun
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8831
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8831
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Pipoca
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8830
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8830
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Premium
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8829
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8829
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Telecine Touch
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8828
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8828
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",TLC
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/7370
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/7370
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",TNT
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8840
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8840
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",TNT Series
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8827
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8827
 
 #EXTINF:0 tvg-logo="" group-title="Filmes e séries",Universal TV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/7422
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/7422
 
 #EXTINF:0 tvg-logo="https://www.offremedia.com/sites/default/files/vignette/article/nl1660-logo-wbtv.png" group-title="Filmes e séries",Warner TV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8825
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8825
 
 #EXTINF:0 tvg-logo="https://www.offremedia.com/sites/default/files/vignette/article/nl1660-logo-wbtv.png" tvg-shift="0" group-title="Filmes e séries", Warner TV²
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
@@ -360,10 +360,10 @@ https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m
 http://tv.factoryiptv.com:80/Denis111/Denis111/36925?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://png.pngitem.com/pimgs/s/195-1958579_hgtv-logo-hgtv-logo-png-transparent-png.png" group-title="Variedades", HGTV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/147274
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/147274
 
 #EXTINF:0 tvg-logo="https://png.pngitem.com/pimgs/s/195-1958579_hgtv-logo-hgtv-logo-png-transparent-png.png" group-title="Variedades", HGTV²
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/275122
+http://iptvstream.xyz:8080/test-restream-27a1be/93f9/275122
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Variedades", CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
