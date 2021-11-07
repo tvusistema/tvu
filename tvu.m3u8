@@ -146,6 +146,7 @@ http://iptvstream.xyz:8080/test-restream-27a1be/93f9/8798
 
 #########################################
 ##INFANTIL##
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network²
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
 
@@ -153,7 +154,8 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28857?checkedby:iptvcat.com
 http://tv.factoryiptv.com:80/Denis111/Denis111/36927?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids²
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28855
+#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/28855
+http://177.36.96.12:8888/http/007
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-#Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids³
 #http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:iptvcat.com
